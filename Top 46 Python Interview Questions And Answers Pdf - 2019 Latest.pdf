@@ -1,0 +1,1210 @@
+<!DOCTYPE html>
+<!-- saved from url=(0105)https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/ -->
+<html lang="en-US" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Top 46 Python Interview Questions And Answers Pdf - 2019 Latest</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v12.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="Top 46 Python Interview Questions And Answers Pdf match() – matches the pattern only to the beginning of the String. search() – scan the string and look.">
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+<link rel="canonical" href="https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Top 46 Python Interview Questions And Answers Pdf - 2019 Latest">
+<meta property="og:description" content="Top 46 Python Interview Questions And Answers Pdf match() – matches the pattern only to the beginning of the String. search() – scan the string and look.">
+<meta property="og:url" content="https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/">
+<meta property="og:site_name" content="e-learning portal for IT courses">
+<meta property="article:tag" content="python coding interview questions">
+<meta property="article:tag" content="python developer interview questions">
+<meta property="article:tag" content="python devops interview questions">
+<meta property="article:tag" content="python interview questions">
+<meta property="article:tag" content="python interview questions and answers for experienced">
+<meta property="article:tag" content="python interview questions and answers pdf">
+<meta property="article:tag" content="python interview questions for data science">
+<meta property="article:tag" content="python interview questions pdf">
+<meta property="article:tag" content="python programming interview questions">
+<meta property="article:tag" content="python technical interview questions">
+<meta property="article:tag" content="python testing interview questions">
+<meta property="article:tag" content="python training videos">
+<meta property="article:tag" content="python tutorial">
+<meta property="article:section" content="Python Interview Questions">
+<meta property="article:published_time" content="2018-05-19T07:42:23+00:00">
+<meta property="article:modified_time" content="2019-10-23T10:37:07+00:00">
+<meta property="og:updated_time" content="2019-10-23T10:37:07+00:00">
+<meta property="og:image" content="https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg">
+<meta property="og:image:secure_url" content="https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg">
+<meta property="og:image:width" content="800">
+<meta property="og:image:height" content="250">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Top 46 Python Interview Questions And Answers Pdf match() – matches the pattern only to the beginning of the String. search() – scan the string and look.">
+<meta name="twitter:title" content="Top 46 Python Interview Questions And Answers Pdf - 2019 Latest">
+<meta name="twitter:image" content="https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg">
+<script type="application/ld+json" class="yoast-schema-graph yoast-schema-graph--main">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://svrtechnologies.com/#website","url":"https://svrtechnologies.com/","name":"e-learning portal for IT courses","potentialAction":{"@type":"SearchAction","target":"https://svrtechnologies.com/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"ImageObject","@id":"https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/#primaryimage","url":"https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg","width":800,"height":250,"caption":"python interview questions"},{"@type":"WebPage","@id":"https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/#webpage","url":"https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/","inLanguage":"en-US","name":"Top 46 Python Interview Questions And Answers Pdf - 2019 Latest","isPartOf":{"@id":"https://svrtechnologies.com/#website"},"primaryImageOfPage":{"@id":"https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/#primaryimage"},"datePublished":"2018-05-19T07:42:23+00:00","dateModified":"2019-10-23T10:37:07+00:00","author":{"@id":"https://svrtechnologies.com/#/schema/person/7c065e244ef0ab9d80304e8f691a8f93"},"description":"Top 46 Python Interview Questions And Answers Pdf match() \u2013 matches the pattern only to the beginning of the String. search() \u2013 scan the string and look."},{"@type":["Person"],"@id":"https://svrtechnologies.com/#/schema/person/7c065e244ef0ab9d80304e8f691a8f93","name":"Admin","image":{"@type":"ImageObject","@id":"https://svrtechnologies.com/#authorlogo","url":"https://secure.gravatar.com/avatar/b136f00385717eebe698f51d852df333?s=96&d=mm&r=g","caption":"Admin"},"sameAs":[]}]}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="e-learning portal for IT courses » Feed" href="https://svrtechnologies.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="e-learning portal for IT courses » Comments Feed" href="https://svrtechnologies.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/svrtechnologies.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wptwa-public-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/public.css" type="text/css" media="all">
+<link rel="stylesheet" id="wptwa-generated-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/auto-generated-wptwa.css" type="text/css" media="all">
+<link rel="stylesheet" id="astra-theme-css-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/style.min.css" type="text/css" media="all">
+<style id="astra-theme-css-inline-css" type="text/css">
+html{font-size:106.25%;}a,.page-title{color:#696969;}a:hover,a:focus{color:#696969;}body,button,input,select,textarea{font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-size:17px;font-size:1rem;line-height:1.75;}blockquote{color:#1e1e1e;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-family:Arial,Helvetica,Verdana,sans-serif;font-weight:400;}.site-title{font-size:35px;font-size:2.0588235294118rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.3529411764706rem;}.site-header .site-description{font-size:15px;font-size:0.88235294117647rem;}.entry-title{font-size:40px;font-size:2.3529411764706rem;}.comment-reply-title{font-size:28px;font-size:1.6470588235294rem;}.ast-comment-list #cancel-comment-reply-link{font-size:17px;font-size:1rem;}h1,.entry-content h1{font-size:40px;font-size:2.3529411764706rem;}h2,.entry-content h2{font-size:30px;font-size:1.7647058823529rem;}h3,.entry-content h3{font-size:25px;font-size:1.4705882352941rem;}h4,.entry-content h4{font-size:20px;font-size:1.1764705882353rem;}h5,.entry-content h5{font-size:18px;font-size:1.0588235294118rem;}h6,.entry-content h6{font-size:15px;font-size:0.88235294117647rem;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.7647058823529rem;}#secondary,#secondary button,#secondary input,#secondary select,#secondary textarea{font-size:17px;font-size:1rem;}::selection{background-color:#ff0166;color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.wc-block-grid__product-title{color:#696969;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:#696969;background-color:#696969;}.main-header-menu a,.ast-header-custom-item a{color:#696969;}.main-header-menu li:hover > a,.main-header-menu li:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu li.focus > a,.main-header-menu li.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > a,.main-header-menu .current-menu-ancestor > a,.main-header-menu .current_page_item > a,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle,.main-header-menu .current_page_item > .ast-menu-toggle{color:#696969;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#696969;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#696969;background-color:#696969;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#696969;border-color:#696969;}.footer-adv .footer-adv-overlay{border-top-style:solid;border-top-color:#7a7a7a;}.ast-comment-meta{line-height:1.666666667;font-size:14px;font-size:0.82352941176471rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#696969;}.menu-toggle,button,.ast-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-radius:2px;padding:10px 40px;color:#ffffff;border-color:#ff0166;background-color:#ff0166;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.button:hover,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;border-color:#696969;background-color:#696969;}.entry-meta,.entry-meta *{line-height:1.45;color:#696969;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#696969;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:11.764705882353rem;}.widget-title{font-size:24px;font-size:1.4117647058824rem;color:#696969;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#696969;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#696969;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#696969;border-color:#696969;}.calendar_wrap #today > a{color:#ffffff;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#696969;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#696969;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#dd3333;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #dd3333;color:#dd3333;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#dd3333;color:#ffffff;}.ast-header-break-point .main-header-bar .ast-button-wrap .menu-toggle{border-radius:0px;}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:96.9%;}}@media (max-width:544px){html{font-size:96.9%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url( https://svrtechnologies.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url( https://svrtechnologies.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url( https://svrtechnologies.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#ff0166;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children{border-top-width:2px;border-right-width:0px;border-left-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .children .children{top:-2px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu a,.ast-desktop .main-header-menu.submenu-with-border .children a{border-bottom-width:0px;border-style:solid;border-color:#eaeaea;}@media (min-width:769px){.main-header-menu .sub-menu li.ast-left-align-sub-menu:hover > ul,.main-header-menu .sub-menu li.ast-left-align-sub-menu.focus > ul{margin-left:-0px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#7a7a7a;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:5.8823529411765rem;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"»";}.trail-items li:last-of-type::after{display:none;}.ast-header-break-point .site-header{border-bottom-width:1px;}@media (min-width:769px){.main-header-bar{border-bottom-width:1px;}}.ast-safari-browser-less-than-11 .main-header-menu .menu-item,.ast-safari-browser-less-than-11 .main-header-bar .ast-masthead-custom-menu-items{display:block;}.main-header-menu .menu-item,.main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > a{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-primary-menu-disabled .main-header-bar .ast-masthead-custom-menu-items{flex:unset;}.ast-desktop .astra-menu-animation-slide-up>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transform:translateY(.5em);transition:visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-up>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-up>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transform:translateY(0);transition:opacity .2s ease,visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-up>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-up>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}.ast-desktop .astra-menu-animation-slide-down>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transform:translateY(-.5em);transition:visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-down>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-slide-down>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transform:translateY(0);transition:opacity .2s ease,visibility .2s ease,transform .2s ease}.ast-desktop .astra-menu-animation-slide-down>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-slide-down>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}.ast-desktop .astra-menu-animation-fade>.menu-item>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item>.sub-menu .sub-menu{opacity:0;visibility:hidden;transition:opacity ease-in-out .3s}.ast-desktop .astra-menu-animation-fade>.menu-item .menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item .menu-item:hover>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item.focus>.sub-menu,.ast-desktop .astra-menu-animation-fade>.menu-item:hover>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.menu-item:hover>.sub-menu{opacity:1;visibility:visible;transition:opacity ease-in-out .3s}.ast-desktop .astra-menu-animation-fade>.full-width-mega.menu-item.focus>.astra-full-megamenu-wrapper,.ast-desktop .astra-menu-animation-fade>.full-width-mega.menu-item:hover>.astra-full-megamenu-wrapper{-js-display:flex;display:flex}
+</style>
+<link rel="stylesheet" id="wp-block-library-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/style.min(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="astra-addon-css-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/astra-addon-5da80e5de458c3-16252527.css" type="text/css" media="all">
+<style id="astra-addon-css-inline-css" type="text/css">
+.ast-article-post .ast-date-meta .posted-on,.ast-article-post .ast-date-meta .posted-on *{background:#696969;color:#ffffff;}.ast-article-post .ast-date-meta .posted-on .date-month,.ast-article-post .ast-date-meta .posted-on .date-year{color:#ffffff;}.ast-load-more:hover{color:#ffffff;border-color:#696969;background-color:#696969;}.ast-loader > div{background-color:#696969;}h1,.entry-content h1{color:#373737;}h2,.entry-content h2{color:#373737;}h3,.entry-content h3{color:#373737;}h4,.entry-content h4{color:#373737;}h5,.entry-content h5{color:#373737;}h6,.entry-content h6{color:#373737;}.ast-single-post .entry-title,.page-title{color:#373737;}.secondary .widget-title,.secondary .widget-title *{color:#373737;}.secondary{color:#696969;}.secondary a{color:#696969;}.secondary a:hover{color:#696969;}.secondary .tagcloud a:hover,.secondary .tagcloud a.current-item{border-color:#696969;background-color:#696969;}.secondary .calendar_wrap #today,.secondary a:hover + .post-count{background-color:#696969;}.entry-title a{color:#373737;}.read-more a:not(.ast-button):hover,.entry-meta a:hover,.entry-meta a:hover *{color:#696969;}.entry-meta a,.entry-meta a *,.read-more a:not(.ast-button){color:#696969;}.entry-meta,.entry-meta *{color:#696969;}.ast-separate-container .blog-layout-1,.ast-separate-container .blog-layout-2,.ast-separate-container .blog-layout-3{background-color:transparent;background-image:none;}.ast-separate-container .ast-article-post{background-color:#ffffff;}.ast-archive-description{color:#696969;}.ast-archive-description .page-title{color:#373737;}.ast-separate-container .ast-article-single,.ast-separate-container .comment-respond,.ast-separate-container .ast-comment-list li,.ast-separate-container .ast-woocommerce-container,.ast-separate-container .error-404,.ast-separate-container .no-results,.single.ast-separate-container .ast-author-meta,.ast-separate-container .related-posts-title-wrapper,.ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container .comments-count-wrapper,.ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content{background-color:#ffffff;}.secondary .tagcloud a:hover,.secondary .tagcloud a.current-item{color:#ffffff;}.secondary .calendar_wrap #today{color:#ffffff;}.footer-adv .widget-title,.footer-adv .widget-title a.rsswidget,.ast-no-widget-row .widget-title{font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;text-transform:inherit;}.footer-adv .widget > *:not(.widget-title){font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;}@media (max-width:768px){.ast-flyout-menu-enable.ast-main-header-nav-open .main-header-bar,.ast-fullscreen-menu-enable.ast-main-header-nav-open .main-header-bar{padding-bottom:1.5em;}}@media (max-width:544px){.ast-flyout-menu-enable.ast-main-header-nav-open .main-header-bar,.ast-fullscreen-menu-enable.ast-main-header-nav-open .main-header-bar{padding-bottom:1em;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@media (min-width:993px){.ast-container{max-width:1240px;}}@media (min-width:1201px){.ast-container{max-width:1240px;}}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar,.ast-main-header-nav-open .main-header-bar{padding-bottom:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle,.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.children .page_item_has_children > .ast-menu-toggle{right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children > a,.ast-default-below-menu-enable.ast-header-break-point .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children > a,.ast-flyout-below-menu-enable.ast-header-break-point .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a,.ast-default-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a,.ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-no-sidebar.ast-separate-container .entry-content .alignfull{margin-right:-;margin-left:-;}@media (max-width:768px){.main-header-bar,.ast-header-break-point .main-header-bar,.ast-header-break-point .header-main-layout-2 .main-header-bar{padding-top:1.5em;padding-bottom:1.5em;}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar,.ast-main-header-nav-open .main-header-bar{padding-bottom:0;}.main-navigation ul li a,.ast-header-break-point .main-navigation ul li a,.ast-header-break-point li.ast-masthead-custom-menu-items,li.ast-masthead-custom-menu-items{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle,.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle,.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle,.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:calc( 20px - 0.907em );}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children > .ast-menu-toggle,.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle{top:0px;}.ast-desktop .main-navigation .ast-mm-template-content,.ast-desktop .main-navigation .ast-mm-custom-text-content,.main-navigation ul.sub-menu li a,.main-navigation ul.children li a,.ast-header-break-point .main-navigation ul.sub-menu li a,.ast-header-break-point .main-navigation ul.children li a{padding-top:0px;padding-right:0;padding-bottom:0px;padding-left:30px;}.ast-header-break-point .main-navigation ul.children li li a,.ast-header-break-point .main-navigation ul.sub-menu li li a{padding-left:calc( 30px + 10px );}.ast-header-break-point .main-navigation ul.children li li li a,.ast-header-break-point .main-navigation ul.sub-menu li li li a{padding-left:calc( 30px + 20px );}.ast-header-break-point .main-navigation ul.children li li li li a,.ast-header-break-point .main-navigation ul.sub-menu li li li li a{padding-left:calc( 30px + 30px );}.ast-header-break-point .main-navigation ul.children li li li li li a,.ast-header-break-point .main-navigation ul.sub-menu li li li li li a{padding-left:calc( 30px + 40px );}.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle,.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.children .page_item_has_children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle{margin-right:20px;right:0;}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle,.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.children .page_item_has_children > .ast-menu-toggle{right:calc( 20px - 0.907em );}.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .page_item_has_children .children .ast-menu-toggle,.ast-flyout-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .menu-item-has-children .sub-menu .ast-menu-toggle{top:0px;}.ast-fullscreen-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.menu-item-has-children > a,.ast-fullscreen-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.page_item_has_children > a,.ast-default-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.page_item_has_children > a,.ast-flyout-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li.page_item_has_children > a{padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul a,.ast-fullscreen-menu-enable.ast-header-break-point .ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li a,.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-navigation ul.sub-menu li a,.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu-items ul.sub-menu li a,.ast-fullscreen-menu-enable.ast-header-break-point .main-navigation ul.sub-menu li a{padding-top:0px;padding-bottom:0px;padding-left:30px;}.ast-below-header,.ast-header-break-point .ast-below-header{padding-top:1em;padding-bottom:1em;}.ast-below-header-menu a,.below-header-nav-padding-support .below-header-section-1 .below-header-menu > li > a,.below-header-nav-padding-support .below-header-section-2 .below-header-menu > li > a,.ast-header-break-point .ast-below-header-actual-nav > ul > li > a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-desktop .ast-below-header-menu .ast-mm-template-content,.ast-desktop .ast-below-header-menu .ast-mm-custom-text-content,.ast-below-header-menu ul a,.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li a,.ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li a{padding-left:calc( 20px + 10px );}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li li a,.ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li li a{padding-left:calc( 20px + 20px );}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li li li a,.ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li li li a{padding-left:calc( 20px + 30px );}.ast-header-break-point .ast-below-header-actual-nav ul.sub-menu li li li li li a,.ast-header-break-point .ast-below-header-menu-items ul.sub-menu li li li li li a{padding-left:calc( 20px + 40px );}.ast-default-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-default-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle,.ast-flyout-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-flyout-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-default-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle,.ast-flyout-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-above-header{padding-top:0px;padding-bottom:0px;}.ast-above-header-enabled .ast-above-header-navigation .ast-above-header-menu > li > a,.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu > li:first-child > a,.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu > li:last-child > a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .ast-above-header-navigation > ul > .menu-item-has-children > .ast-menu-toggle{top:0px;}.ast-desktop .ast-above-header-navigation .ast-mm-custom-text-content,.ast-desktop .ast-above-header-navigation .ast-mm-template-content,.ast-above-header-enabled .ast-above-header-navigation .ast-above-header-menu li ul a,.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu a,.ast-above-header-enabled .ast-above-header-menu > li:first-child .sub-menu li a{padding-top:0px;padding-right:20px;padding-bottom:0px;padding-left:20px;}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li a{padding-left:calc( 20px + 10px );}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li li a{padding-left:calc( 20px + 20px );}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li li li a{padding-left:calc( 20px + 30px );}.ast-header-break-point .ast-above-header-enabled .ast-above-header-menu li ul.sub-menu li li li li a{padding-left:calc( 20px + 40px );}.ast-default-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-default-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle,.ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-default-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle,.ast-flyout-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{top:0px;right:calc( 20px - 0.907em );}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{margin-right:20px;right:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .comment-respond,.single.ast-separate-container .ast-author-details,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container{padding-top:1.5em;padding-bottom:1.5em;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-count-wrapper,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .comment-respond,.ast-separate-container .related-posts-title-wrapper,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .ast-author-details,.single.ast-separate-container .about-author-title-wrapper,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container{padding-right:2.14em;padding-left:2.14em;}.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container #primary,.ast-plain-container #primary{margin-top:1.5em;margin-bottom:1.5em;}.ast-left-sidebar #primary,.ast-right-sidebar #primary,.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary,.ast-separate-container #primary{padding-left:0em;padding-right:0em;}.ast-footer-overlay{padding-top:2em;padding-bottom:2em;}.ast-small-footer .nav-menu a,.footer-sml-layout-2 .ast-small-footer-section-1 .menu-item a,.footer-sml-layout-2 .ast-small-footer-section-2 .menu-item a{padding-top:0em;padding-right:.5em;padding-bottom:0em;padding-left:.5em;}}@media (max-width:544px){.main-header-bar,.ast-header-break-point .main-header-bar,.ast-header-break-point .header-main-layout-2 .main-header-bar,.ast-header-break-point .ast-mobile-header-stack .main-header-bar{padding-top:1em;padding-bottom:1em;}.ast-default-menu-enable.ast-main-header-nav-open.ast-header-break-point .main-header-bar,.ast-main-header-nav-open .main-header-bar{padding-bottom:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .page_item_has_children > .ast-menu-toggle,.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation .main-header-menu > .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-desktop .main-navigation .ast-mm-template-content,.ast-desktop .main-navigation .ast-mm-custom-text-content,.main-navigation ul.sub-menu li a,.main-navigation ul.children li a,.ast-header-break-point .main-navigation ul.sub-menu li a,.ast-header-break-point .main-navigation ul.children li a{padding-right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .main-header-bar .main-header-bar-navigation ul.sub-menu .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .ast-above-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-default-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a,.ast-flyout-menu-enable.ast-header-break-point .ast-below-header-menu ul.sub-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-below-menu-enable.ast-header-break-point .ast-below-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-below-menu-enable .ast-below-header-enabled .ast-below-header-navigation ul.ast-below-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-above-header{padding-top:0.5em;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a,.ast-default-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a,.ast-flyout-above-menu-enable.ast-header-break-point .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children > a{padding-right:0;}.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-navigation .menu-item-has-children > .ast-menu-toggle,.ast-fullscreen-above-menu-enable.ast-header-break-point .ast-above-header-menu-items .menu-item-has-children > .ast-menu-toggle{right:0;}.ast-fullscreen-above-menu-enable .ast-above-header-enabled .ast-above-header-navigation ul.ast-above-header-menu li.menu-item-has-children ul.sub-menu .ast-menu-toggle{right:0;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .comment-respond,.single.ast-separate-container .ast-author-details,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container{padding-top:1.5em;padding-bottom:1.5em;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-count-wrapper,.ast-separate-container .ast-comment-list li.depth-1,.ast-separate-container .comment-respond,.ast-separate-container .related-posts-title-wrapper,.ast-separate-container .related-posts-title-wrapper,.single.ast-separate-container .ast-author-details,.single.ast-separate-container .about-author-title-wrapper,.ast-separate-container .ast-related-posts-wrap,.ast-separate-container .ast-woocommerce-container{padding-right:1em;padding-left:1em;}}@media (max-width:544px){.ast-header-break-point .header-main-layout-2 .site-branding,.ast-header-break-point .ast-mobile-header-stack .ast-mobile-menu-buttons{padding-bottom:0;}}@media (max-width:768px){.ast-separate-container.ast-two-container #secondary .widget,.ast-separate-container #secondary .widget{margin-bottom:1.5em;}}@media (max-width:768px){.ast-separate-container #primary{padding-top:0;}}@media (max-width:768px){.ast-separate-container #primary{padding-bottom:0;}}.site-header .ast-sticky-shrunk .ast-site-identity,.ast-sticky-shrunk .main-header-menu > li > a,.ast-sticky-shrunk li.ast-masthead-custom-menu-items{padding-top:0;padding-bottom:0;} .ast-header-break-point .ast-sticky-shrunk.main-navigation ul.sub-menu li a,.ast-header-break-point .ast-sticky-shrunk .main-navigation ul.children li a{padding-top:0;padding-bottom:0;}.ast-sticky-shrunk .main-header-menu ul a{padding-top:0.9em;padding-bottom:0.9em;}.ast-above-header > div,.main-header-bar > div,.ast-below-header > div {-webkit-transition: all 0.2s linear;transition: all 0.2s linear;}.ast-above-header,.main-header-bar,.ast-below-header {max-width:100%;}#ast-scroll-top{background-color:rgba(105,105,105,0.8);font-size:15px;font-size:0.88235294117647rem;}.site-title,.site-title a{font-weight:inherit;font-family:Arial,Helvetica,Verdana,sans-serif;text-transform:inherit;}.site-header .site-description{font-weight:inherit;font-family:inherit;text-transform:inherit;}.main-navigation{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.main-header-menu > li > .sub-menu:first-of-type,.main-header-menu > li > .children:first-of-type,.main-header-menu > li > .astra-full-megamenu-wrapper:first-of-type{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.entry-meta,.read-more{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.secondary .widget-title{font-size:22px;font-size:1.2941176470588rem;font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}.secondary .widget > *:not(.widget-title){font-size:15px;font-size:0.88235294117647rem;font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.ast-small-footer{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.ast-single-post .entry-title,.page-title{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}.ast-archive-description .ast-archive-title{font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;text-transform:inherit;}.blog .entry-title,.blog .entry-title a,.archive .entry-title,.archive .entry-title a,.search .entry-title,.search .entry-title a {font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;text-transform:inherit;}h1,.entry-content h1{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;line-height:1.2;text-transform:inherit;}h2,.entry-content h2{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}h3,.entry-content h3{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}h4,.entry-content h4{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}h5,.entry-content h5{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}h6,.entry-content h6{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;text-transform:inherit;}button,.ast-button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.ast-header-sections-navigation,.ast-above-header-menu-items,.ast-below-header-menu-items{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.ast-header-sections-navigation li > .sub-menu:first-of-type,.ast-above-header-menu-items li > .sub-menu:first-of-type,.ast-below-header-menu-items li > .sub-menu:first-of-type{font-weight:400;font-family:Helvetica,Verdana,Arial,sans-serif;}.ast-desktop .ast-mega-menu-enabled.ast-below-header-menu li a:hover,.ast-desktop .ast-mega-menu-enabled.ast-below-header-menu li a:focus{background-color:#575757;}.ast-desktop .ast-below-header-navigation .astra-megamenu-li li a:hover,.ast-desktop .ast-below-header-navigation .astra-megamenu-li .menu-item a:focus{color:#ffffff;}.ast-above-header-menu .astra-full-megamenu-wrapper{box-shadow:0 5px 20px rgba(0,0,0,0.06);}.ast-above-header-menu .astra-full-megamenu-wrapper .sub-menu,.ast-above-header-menu .astra-megamenu .sub-menu{box-shadow:none;}.ast-below-header-menu.ast-mega-menu-enabled.submenu-with-border .astra-full-megamenu-wrapper{border-color:#ffffff;}.ast-below-header-menu .astra-full-megamenu-wrapper{box-shadow:0 5px 20px rgba(0,0,0,0.06);}.ast-below-header-menu .astra-full-megamenu-wrapper .sub-menu,.ast-below-header-menu .astra-megamenu .sub-menu{box-shadow:none;}.ast-desktop .main-header-menu.submenu-with-border .astra-megamenu,.ast-desktop .main-header-menu.ast-mega-menu-enabled.submenu-with-border .astra-full-megamenu-wrapper{border-top-width:2px;border-left-width:0px;border-right-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .ast-mega-menu-enabled.main-header-menu .menu-item-heading > a{font-family:Helvetica,Verdana,Arial,sans-serif;font-weight:400;font-size:1.1em;}.ast-desktop .ast-above-header .submenu-with-border .astra-full-megamenu-wrapper{border-top-width:2px;border-left-width:0px;border-right-width:0px;border-bottom-width:0px;border-style:solid;}.ast-desktop .ast-below-header .submenu-with-border .astra-full-megamenu-wrapper{border-top-width:2px;border-left-width:0px;border-right-width:0px;border-bottom-width:0px;border-style:solid;}.ast-advanced-headers-different-logo .advanced-header-logo,.ast-header-break-point .ast-has-mobile-header-logo .advanced-header-logo{display:inline-block;}.ast-header-break-point.ast-advanced-headers-different-logo .ast-has-mobile-header-logo .ast-mobile-header-logo{display:none;}.ast-advanced-headers-layout{width:100%;}.ast-primary-sticky-header-active .site-title a,.ast-primary-sticky-header-active .site-title a:focus,.ast-primary-sticky-header-active .site-title a:hover,.ast-primary-sticky-header-active .site-title a:visited{color:#222;}.ast-primary-sticky-header-active .site-header .site-description{color:#696969;}.ast-transparent-header.ast-primary-sticky-header-active .main-header-bar-wrap .main-header-bar,.ast-primary-sticky-header-active .main-header-bar-wrap .main-header-bar,.ast-primary-sticky-header-active.ast-header-break-point .main-header-bar-wrap .main-header-bar{background:#ffffff;}.ast-above-sticky-header-active .ast-above-header-wrap .ast-above-header{background-color:#ffffff;}.ast-below-sticky-header-active .ast-below-header-wrap .ast-below-header{background-color:#414042;}.ast-fullscreen-below-menu-enable.ast-below-sticky-header-active .ast-below-header-menu .sub-menu li:hover > a,.ast-fullscreen-below-menu-enable.ast-below-sticky-header-active .ast-below-header-menu .sub-menu li:focus > a,.ast-fullscreen-below-menu-enable.ast-below-sticky-header-active .ast-below-header-menu .sub-menu li.focus > a{background-color:transparent;}
+ .astra-advanced-hook-3053770 { }
+ .astra-advanced-hook-3052589 { }
+ .astra-advanced-hook-2050735 { }
+ .astra-advanced-hook-2046433 { }
+</style>
+<link rel="stylesheet" id="elementor-frontend-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/frontend.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-3053770-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/post-3053770.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-3052589-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/post-3052589.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-2050735-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/post-2050735.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-2046433-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/post-2046433.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/elementor-icons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-animations-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/animations.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/frontend.min(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="jet-blog-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/jet-blog.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-5-all-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/all.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/v4-shims.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/global.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-post-19159-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/post-19159.css" type="text/css" media="all">
+<link rel="stylesheet" id="cp-module-main-style-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/cp-module-main.css" type="text/css" media="all">
+<link rel="stylesheet" id="smile-modal-style-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/modal.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/fontawesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/brands.min.css" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var slide_in = {"demo_dir":"https:\/\/svrtechnologies.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/jquery.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/jquery-migrate.min.js.download"></script>
+<!--[if IE]>
+<script type='text/javascript' src='https://svrtechnologies.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=2.1.2'></script>
+<script type='text/javascript'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/v4-shims.min.js.download"></script>
+<link rel="https://api.w.org/" href="https://svrtechnologies.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://svrtechnologies.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://svrtechnologies.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.2.4">
+<link rel="shortlink" href="https://svrtechnologies.com/?p=19159">
+<link rel="alternate" type="application/json+oembed" href="https://svrtechnologies.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsvrtechnologies.com%2Fpython-interview-questions%2Ftop-46-python-interview-questions-and-answers-pdf%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://svrtechnologies.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsvrtechnologies.com%2Fpython-interview-questions%2Ftop-46-python-interview-questions-and-answers-pdf%2F&amp;format=xml">
+<link rel="icon" href="https://svrtechnologies.com/wp-content/uploads/2019/05/may-fevicon-001.png" sizes="32x32">
+<link rel="icon" href="https://svrtechnologies.com/wp-content/uploads/2019/05/may-fevicon-001.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://svrtechnologies.com/wp-content/uploads/2019/05/may-fevicon-001.png">
+<meta name="msapplication-TileImage" content="https://svrtechnologies.com/wp-content/uploads/2019/05/may-fevicon-001.png">
+		<style type="text/css" id="wp-custom-css">
+			.wpforms-form button[type=submit] {
+	
+background-color: #e40943 !important;
+
+border-color: #e40943 !important;
+	color: #fff !important
+
+}
+
+
+
+.wpforms-form button[type=submit]:hover
+
+
+{
+
+background-color: #e40943 !important;
+
+
+}
+
+
+.wptwa-toggle { padding: 30px 30px; }
+.wptwa-box { bottom: 90px; }		</style>
+		<style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style id="cp-tooltip-close-css">.tip.undefined{ display:none; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined{color: undefined;background-color:undefined;border-color:undefined;font-family:undefined; }</style><style class="cp-tooltip-css undefined">.customize-support .tip.undefined[class*="arrow"]:before , .undefined[class*="arrow"]:before {border-left-color: undefined ;border-top-color:transparant}</style></head>
+
+<body itemtype="https://schema.org/Blog" itemscope="itemscope" class="post-template-default single single-post postid-19159 single-format-standard wp-custom-logo ast-desktop ast-plain-container ast-no-sidebar astra-2.1.2 ast-header-custom-item-inside group-blog ast-blog-single-style-1 ast-single-post ast-mobile-inherit-site-logo ast-inherit-site-logo-transparent ast-above-mobile-menu-align-stack ast-default-menu-enable ast-default-above-menu-enable ast-default-below-menu-enable ast-full-width-layout ast-inherit-site-logo-sticky ast-primary-sticky-enabled ast-normal-title-enabled elementor-default elementor-page elementor-page-19159 astra-addon-2.1.2 customize-support ast-mouse-clicked" data-elementor-device-mode="desktop" style="">
+
+<div class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/#content">Skip to content</a>
+
+	
+	<header class="ast-custom-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader"><div class="astra-advanced-hook-3053770">		<div data-elementor-type="wp-post" data-elementor-id="3053770" class="elementor elementor-3053770" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-dc207d0 elementor-section-full_width elementor-section-content-middle elementor-section-stretched elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="dc207d0" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1349px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-63cf8c7 elementor-column elementor-col-100 elementor-top-column" data-id="63cf8c7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-0d18616 elementor-reverse-mobile elementor-hidden-phone elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section elementor-inner-section" data-id="0d18616" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f12cd93 elementor-column elementor-col-25 elementor-inner-column" data-id="f12cd93" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-89d08ee elementor-widget elementor-widget-image" data-id="89d08ee" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://svrtechnologies.com/" data-elementor-open-lightbox="">
+							<img width="157" height="40" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/logo-006-min.png" class="attachment-large size-large" alt="">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-b3c1d39 elementor-column elementor-col-25 elementor-inner-column" data-id="b3c1d39" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-570e9cd elementor-column elementor-col-25 elementor-inner-column" data-id="570e9cd" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3bb205b elementor-nav-menu__align-right elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="3bb205b" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-3bb205b" class="elementor-nav-menu" data-smartmenus-id="15729318378925732"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540428"><a href="https://svrtechnologies.com/online-training-courses" class="elementor-item">Live Training</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540427"><a href="https://svrtechnologies.com/self-learning-courses/" class="elementor-item">Self-Learning</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540429"><a href="https://www.svrtechnologies.video/courses/category/FREE" class="elementor-item">Free Courses</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3054229"><a href="https://svrtechnologies.com/interview-questions-and-answers" class="elementor-item">Interview QA</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle">
+			<i class="eicon" aria-hidden="true"></i>
+		</div>
+		<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container"><ul id="menu-2-3bb205b" class="elementor-nav-menu" data-smartmenus-id="15729318378985623"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540428"><a href="https://svrtechnologies.com/online-training-courses" class="elementor-item">Live Training</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540427"><a href="https://svrtechnologies.com/self-learning-courses/" class="elementor-item">Self-Learning</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-540429"><a href="https://www.svrtechnologies.video/courses/category/FREE" class="elementor-item">Free Courses</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3054229"><a href="https://svrtechnologies.com/interview-questions-and-answers" class="elementor-item">Interview QA</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2329c69 elementor-column elementor-col-25 elementor-inner-column" data-id="2329c69" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-fb1d182 elementor-reverse-tablet elementor-hidden-desktop elementor-hidden-tablet elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="fb1d182" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-wide">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-b7fd590 elementor-column elementor-col-100 elementor-inner-column" data-id="b7fd590" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2bb5a2c elementor-widget-mobile__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="2bb5a2c" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://svrtechnologies.com/" data-elementor-open-lightbox="" target="_blank">
+							<img width="157" height="40" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/logo-006-min.png" class="attachment-full size-full" alt="">								</a>
+											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ed3194 elementor-nav-menu__align-right elementor-nav-menu--dropdown-mobile elementor-nav-menu--stretch elementor-widget__width-auto elementor-widget-mobile__width-auto elementor-absolute elementor-nav-menu--indicator-classic elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="3ed3194" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-3ed3194" class="elementor-nav-menu" data-smartmenus-id="15729318379068787"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042377"><a href="https://svrtechnologies.com/online-training-courses/" class="elementor-item">Instructor Led</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042376"><a href="https://svrtechnologies.com/self-learning-courses/" class="elementor-item">Self-Learning</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042381"><a href="https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/#" class="elementor-item elementor-item-anchor">Free Tutorials</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042378"><a href="https://svrtechnologies.com/interview-questions-and-answers/" class="elementor-item">Interview Q&amp;A</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042379"><a href="https://svrtechnologies.com/faculty-registration/" class="elementor-item">Faculty Registration</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042380"><a href="https://svrtechnologies.com/contact-us" class="elementor-item">Contact Us</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" style="">
+			<i class="eicon" aria-hidden="true"></i>
+		</div>
+		<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" style="top: 0px; width: 1349px; left: 0px;"><ul id="menu-2-3ed3194" class="elementor-nav-menu" data-smartmenus-id="15729318379088525"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042377"><a href="https://svrtechnologies.com/online-training-courses/" class="elementor-item">Instructor Led</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042376"><a href="https://svrtechnologies.com/self-learning-courses/" class="elementor-item">Self-Learning</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042381"><a href="https://svrtechnologies.com/python-interview-questions/top-46-python-interview-questions-and-answers-pdf/#" class="elementor-item elementor-item-anchor">Free Tutorials</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042378"><a href="https://svrtechnologies.com/interview-questions-and-answers/" class="elementor-item">Interview Q&amp;A</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042379"><a href="https://svrtechnologies.com/faculty-registration/" class="elementor-item">Faculty Registration</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1042380"><a href="https://svrtechnologies.com/contact-us" class="elementor-item">Contact Us</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-76055d0 elementor-section-stretched elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="76055d0" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1349px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-0e5f414 elementor-column elementor-col-100 elementor-top-column" data-id="0e5f414" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div></header>
+	<div class="astra-advanced-hook-2050735">		<div data-elementor-type="wp-post" data-elementor-id="2050735" class="elementor elementor-2050735" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-6de97e9 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="6de97e9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-da4fdc7 elementor-column elementor-col-100 elementor-top-column" data-id="da4fdc7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5891894 elementor--h-position-center elementor--v-position-middle elementor-widget elementor-widget-slides" data-id="5891894" data-element_type="widget" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-slides-wrapper elementor-slick-slider" dir="ltr">
+			<div class="elementor-slides slick-arrows-inside slick-initialized slick-slider" data-slider_options="{&quot;slidesToShow&quot;:1,&quot;autoplaySpeed&quot;:5000,&quot;autoplay&quot;:true,&quot;infinite&quot;:true,&quot;pauseOnHover&quot;:true,&quot;speed&quot;:500,&quot;arrows&quot;:true,&quot;dots&quot;:false,&quot;rtl&quot;:false}" data-animation="fadeInUp"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="display: block;">Previous</button>
+				<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 6745px; transform: translate3d(-1349px, 0px, 0px);"><div class="elementor-repeater-item-b9c55fe slick-slide slick-cloned" data-slick-index="-1" aria-hidden="true" style="width: 1349px;" tabindex="-1"><div class="slick-slide-bg"></div><div class="slick-slide-inner"><div class="elementor-slide-content" style="display: none;"></div></div></div><div class="elementor-repeater-item-ef280fc slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 1349px;" tabindex="0"><div class="slick-slide-bg"></div><div class="slick-slide-inner"><div class="elementor-slide-content animated fadeInUp" style="display: block;"></div></div></div><div class="elementor-repeater-item-b9c55fe slick-slide" data-slick-index="1" aria-hidden="true" style="width: 1349px;" tabindex="-1"><div class="slick-slide-bg"></div><div class="slick-slide-inner"><div class="elementor-slide-content" style="display: none;"></div></div></div><div class="elementor-repeater-item-ef280fc slick-slide slick-cloned" data-slick-index="2" aria-hidden="true" style="width: 1349px;" tabindex="-1"><div class="slick-slide-bg"></div><div class="slick-slide-inner"><div class="elementor-slide-content" style="display: none;"></div></div></div><div class="elementor-repeater-item-b9c55fe slick-slide slick-cloned" data-slick-index="3" aria-hidden="true" style="width: 1349px;" tabindex="-1"><div class="slick-slide-bg"></div><div class="slick-slide-inner"><div class="elementor-slide-content" style="display: none;"></div></div></div></div></div>			<button class="slick-next slick-arrow" aria-label="Next" type="button" style="display: block;">Next</button></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-12f40db elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="12f40db" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-db9e918 elementor-column elementor-col-100 elementor-top-column" data-id="db9e918" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div>
+	
+	<div id="content" class="site-content">
+
+		<div class="ast-container">
+
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+
+				
+					
+					
+
+<article class="post-19159 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-devops-interview-questions tag-python-interview-questions tag-python-interview-questions-and-answers-for-experienced tag-python-interview-questions-and-answers-pdf tag-python-interview-questions-for-data-science tag-python-interview-questions-pdf tag-python-programming-interview-questions tag-python-technical-interview-questions tag-python-testing-interview-questions tag-python-training-videos tag-python-tutorial ast-article-single" itemtype="https://schema.org/CreativeWork" itemscope="itemscope" id="post-19159">
+
+	
+	
+<div class="ast-post-format- single-layout-1 ast-no-date-box">
+
+	
+	<header class="entry-header ast-no-thumbnail">
+
+		
+				<div class="ast-single-post-order">
+			<h1 class="entry-title" itemprop="headline">Top 46 Python Interview Questions And Answers Pdf – 2019 Latest</h1><div class="entry-meta"><span class="cat-links"><a href="https://svrtechnologies.com/Course/python-interview-questions/" rel="category tag">Python Interview Questions</a></span> / By <span class="posted-by vcard author" itemtype="https://schema.org/Person" itemscope="itemscope" itemprop="author">			<a class="url fn n" title="View all posts by Admin" href="https://svrtechnologies.com/author/admin/" rel="author" itemprop="url">
+				<span class="author-name" itemprop="name">Admin</span>
+			</a>
+		</span>
+
+		</div>		</div>
+		
+		
+	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content clear" itemprop="text">
+
+		
+				<div data-elementor-type="wp-post" data-elementor-id="19159" class="elementor elementor-19159" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-658238b9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="658238b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5bb6a1f4 elementor-column elementor-col-33 elementor-top-column" data-id="5bb6a1f4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-11d091a8 elementor-widget elementor-widget-text-editor" data-id="11d091a8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>1. What is Python good for?</strong><br><strong>Answer: </strong>Python is a high-level general-purpose programming language that can be applied to many different classes of problems.<br>The language comes with a large standard library that covers areas such as string processing like regular expressions, Unicode, calculating differences between files, Internet protocols like HTTP, FTP, SMTP, XML-RPC, POP, IMAP, CGI programming, software engineering like unit testing, logging, profiling, parsing Python code, and operating system interfaces like system calls, file systems, TCP/IP sockets.</p><p><strong>2. Name some of the features of Python?</strong><br><strong>Answer: </strong>Following are some of the salient features of python<br>It supports functional and structured programming methods as well as OOP.<br>It can be used as a scripting language or can be compiled to byte-code for building large applications.<br>It provides very high-level dynamic data types and supports dynamic type checking.<br>It supports automatic garbage collection.<br>It can be easily integrated with C, C++, COM, ActiveX, CORBA, and Java.</p><p><strong>3. What Is Python? What Are The Benefits Of Using Python? What Do You Understand Of PEP 8?</strong><br><strong>Answer: </strong>Python is one of the most successful interpreted languages. When you write a Python script, it doesn’t need to get compiled before execution. Few other interpreted languages are PHP and Javascript.</p><p>Benefits Of Python Programming.<br>Python is a dynamic-typed language, this means that you don’t need to mention the date type of variables during their declaration. It allows to set variables like var1=101 and var2 =” You are an engineer.” without any error.<br>Python supports object-orientated programming as you can define classes along with the composition and inheritance. It doesn’t use access specifiers like public or private).<br>Functions in Python are like first-class objects. It suggests you can assign them to variables, return from other methods and pass as arguments.<br>Developing using Python is quick but running it is often slower than compiled languages. Luckily, Python enables to include the “C” language extensions so you can optimize your scripts.<br>Python has several usages like web-based applications, test automation, data modeling, big data analytics and much more. Alternatively, you can utilize it as a “glue” layer to work with other languages.<br>PEP 8.<br>PEP 8 is the latest Python coding standard, a set of coding recommendations. It guides to deliver more readable Python code.</p><p><strong>4. What are the Runtime Errors?</strong><br><strong>Answer: </strong>The errors which occur after starting the execution of the programs are known as runtime errors.<br>Runtime errors can occur because of<br>1) Invalid Input<br>2) Invalid Logic<br>3) memory issues<br>4) Hardware failures and so on<br>With respect to every reason which causes to runtime error corresponding runtime error representation class is available<br>Runtime error representation classes technically we call as an exception class.<br>While executing the program if any runtime error occurs corresponding runtime error representation class object is created<br>Creating a runtime error representation class object is technically known as a rising exception<br>While executing the program if an exception is raised, then internally python interpreter verify any code is implemented to handle the raised exception or not<br>If code is not implemented to handle raised exception then the program will be terminated abnormally.</p><p><strong>5. Mention what the Django templates consist of?</strong><br><strong>Answer: </strong>The template is a simple text file. It can create any text-based format like XML, CSV, HTML, etc. A template contains variables that get replaced with values when the template is evaluated and tags (% tag %) that control the logic of the template.</p><p><strong>6. Explain the use of session in Django framework?</strong><br><strong>Answer: </strong>Django provides a session that lets you store and retrieve data on a per-site-visitor basis. Django abstracts the process of sending and receiving cookies, by placing a session ID cookie on the client-side and storing all the related data on the server-side.</p><p><strong>7. Is Python object-oriented? what is an object-oriented programming</strong><br><strong>Answer: </strong>Yes. Python is Object Oriented Programming language. OOP is the programming paradigm based on classes and instances of those classes called objects. The features of OOP are:<br>Encapsulation, Data Abstraction, Inheritance, Polymorphism.</p><p><strong>8. Name few Python modules for Statistical, Numerical and scientific computations?</strong><br><strong>Answer: </strong>numPy – this module provides an array/matrix type, and it is useful for doing computations on arrays. scipy – this module provides methods for doing numeric integrals, solving differential equations, etc pylab – is a module for generating and saving plots<br>matplotlib – used for managing data and generating plots.</p><p><strong>9. Explain how to overload constructors or methods in Python?</strong><br><strong>Answer: </strong>Python’s constructor – _init__ () is the first method of a class. Whenever we try to instantiate an object __init__() is automatically invoked by python to initialize members of an object.</p><p><strong>10. Explain how to redirect the output of a python script from standout(ie., a monitor) on to a file?</strong><br><strong>Answer: </strong>They are two possible ways of redirecting the output from standout to a file.<br>Open an output file in “write” mode and the print the contents into that file, using sys.stdout attribute.<br>import sys<br>filename = “output file” sys.stdout = open() print “testing”<br>you can create a python script say .py file with the contents, say print “testing” and then redirect it to the output file while executing it at the command prompt.<br>Eg: redirect_output.py has the following code:<br>print “Testing”<br>execution: python redirect_output.py &gt; output file.<br>Go through this Python tutorial to get a better understanding of Python Input &amp; Output.</p><p><strong>11. Explain the shortest way to open a text file and display its contents?</strong><br><strong>Answer:</strong><br><strong>The shortest way to open a text file is by using “with” command as follows:</strong></p><p>with open(“file-name”, “r”) as fp:<br>file data = fp.read()<br>#to print the contents of the file print(fileData)</p><p><strong>12. How do you create a dictionary which can preserve the order of pairs?</strong><br><strong>Answer: </strong>We know that regular Python dictionaries iterate over &lt;key, value&gt; pairs in an arbitrary order, hence they do not preserve the insertion order of &lt;key, value&gt; pairs.<br>Python 2.7. introduced a new “OrderDict” class in the “collections” module and it provides the same interface like the general dictionaries but it traverses through keys and values in an ordered manner depending on when a key was first inserted.<br>Eg:</p><p>from collections import OrderedDict<br>d = OrderDict([(‘Company-id’:1),(‘Company-Name’:’Intellipaat’)])<br>d.items() # displays the output as: [(‘Company-id’:1),(‘Company-Name’:’Intellipaat’)]</p><p><strong>13. When does a dictionary is used instead of a list?</strong><br><strong>Answer: </strong>Dictionaries – are best suited when the data is labeled, i.e., the data is a record with field names.<br>lists – are a better option to store collections of un-labeled items say all the files and subdirectories in a folder. List comprehension is used to construct lists in a natural way.<br>Generally, Search operation on dictionary object is faster than searching a list object.</p><p><strong>14. How are Inheritance and Overriding methods are related?</strong><br><strong>Answer: </strong>If class A is a subclass of class B, then everything in B is accessible in /by class A. In addition, class A can define methods that are unavailable in B, and also it is able to override methods in B. For Instance, If class B and class A both contain a method called func(), then func() in class B can override func() in class A. Similarly, a method of class A can call another method defined in A that can invoke a method of B that overrides it.</p><p><strong>15. What is a Python module?</strong><br><strong>Answer: </strong>A module is a Python script that generally contains import statements, functions, classes and variable definitions, and Python runnable code and it “lives” file with a ‘.py’ extension. zip files and DLL files can also be modules. Inside the module, you can refer to the module name as a string that is stored in the global variable name.<br>A module can be imported by other modules in one of the two ways.</p><p><strong>16. Name the File-related modules in Python?</strong><br><strong>Answer: </strong>Python provides libraries/modules with functions that enable you to manipulate text files and binary files on the file system. Using them you can create files, update their contents, copy, and delete files. The libraries are os, os.path, and shutil.<br>Here, os and os.path – modules include functions for accessing the filesystem.</p><p><strong>17. Executing DML Commands Through Python Programs?</strong><br><strong>Answer: </strong>DML Commands are used to modify the data of the database objects<br>Whenever we execute DML Commands the records are going to be modified temporarily<br>Whenever we run “rollback” command the modified records will come back to its original state<br>To modify the records of the database objects permanently we use “commit” command<br>After executing the commit command even though we execute “rollback” command, the modified records will not come back to its original state<br>Create the emp1 table in the database by using the following command<br>Create table emp1 as select * from emp;<br>Whenever we run the DML commands through the python program, then the no.of records which are modified because of that command will be stored into the rowcount attribute of the cursor object<br>After executing the DML Command through the python program we have to call the commit method of cursor object.</p><p><strong>18. How to display the contents of the text file in reverse order?</strong><br><strong>Answer: </strong>convert the given file into a list.<br>reverse the list by using reversed()<br>Eg: for line in reversed(list(open(“file-name”,”r”))):<br>print(line)</p><p><strong>19. Which statement of Python is used whenever a statement is required syntactically but the program needs no action?</strong><br><strong>Answer: </strong>Pass – is no-operation / action statement in Python<br>If we want to load a module or open a file, and even if the requested module/file does not exist, we want to continue with other tasks. In such a scenario, use a try-except block with pass statement in the except block.<br>Eg:</p><p>try:import mymodulemyfile = open(“C:\myfile.csv”)except:pass</p><p><strong>20. Explain the use of with statement?</strong><br><strong>Answer: </strong>In python generally “with” statement is used to open a file, process the data present in the file, and also to close the file without calling a close() method. “with” statement makes the exception handling simpler by providing cleanup activities.<br>The general form of with:<br>with open(“filename”, “mode”) as file-var:<br>processing statements<br>note: no need to close the file by calling close() upon file-var.close()</p><p><strong>21. Explain all the file processing modes supported by Python?</strong><br><strong>Answer: </strong>Python allows you to open files in one of the three modes. They are:<br>read-only mode, write-only mode, read-write mode, and append mode by specifying the flags “r”, “w”, “we”, “a” respectively.<br>A text file can be opened in any one of the above said modes by specifying the option “t” along with<br>“r”, “w”, “we”, and “a”, so that the preceding modes become “rt”, “wt”, “we”, and “at”.A binary file can be opened in any one of the above said modes by specifying the option “b” along with “r”, “w”, “we”, and “a” so that the preceding modes become “RB”, “wb”, “rwb”, “ab”.</p><p><strong>22. What is the Difference Between Methods &amp; Constructors?</strong><br><strong>Answer:</strong><br>Methods Constructor<br>Method name can be any name Constructor name should be<br>The method will be executed whenever we call a method Constructor will be executed automatically whenever we create an object<br>With respect to one object, one method can be called for ‘n’ members of lines<br>With respect to one object, one constructor can be executed only once</p><p>Methods are used to represent business logic to perform the operations Constructors are used to defining &amp; initializing the nonstatic variable.</p><p><strong>23. What is Encapsulation?</strong><br><strong>Answer: </strong>The concept of binding or grouping related data members along with its related functionalities is known as an Encapsulation.</p><p><strong>24. What is Garbage Collection?</strong><br><strong>Answer: </strong>The concept of removing unused or unreferenced objects from the memory location is known as a Garbage Collection.<br>While executing the program, if garbage collection takes place then more memory space is available for the program and rest of the program execution becomes faster.<br>The garbage collector is a predefined program, which removes the unused or unreferenced objects from the memory location<br>Any object reference count becomes zero then we call that object as an unused or unreferenced object<br>Then no.of reference variables which are pointing the object is known as a reference count of the object.<br>While executing the python program if any object reference count becomes zero, then internally python interpreter calls the garbage collector and garbage collector will remove that object from memory location. (<a href="https://www.svrtechnologies.video/p/python-tutorial-videos" target="_blank" rel="noopener">Python Tutorial Videos</a>)</p><p><strong>25. Whenever Python exists Why does all the memory is not de-allocated / freed when Python exits?</strong><br><strong>Answer: </strong>Whenever Python exits, especially those python modules which are having circular references to other objects or the objects that are referenced from the global namespaces are not always deallocated/freed/uncollectable.<br>It is impossible to deallocate those portions of memory that are reserved by the C library.<br>On exit, because of having its own efficient cleanup mechanism, Python would try to deallocate/<br>destroy every object.</p><p><strong>26. What is JSON? How would convert JSON data into Python data?</strong><br><strong>Answer: </strong>JSON – stands for JavaScript Object Notation. It is a popular data format for storing data in NoSQL<br>databases. <a href="https://www.python.org/" target="_blank" rel="noopener">Generally</a>, JSON is built on 2 structures.</p><p>A collection of &lt;name, value&gt; pairs.<br>An ordered list of values.<br>As Python supports JSON parsers, JSON-based data is actually represented as a dictionary in Python. You can convert JSON data into Python using load() of the JSON module</p><p><strong>27. What are negative indexes and why are they used?</strong><br><strong>Answer: </strong>The sequences in Python are indexed and it consists of the positive as well as negative numbers. The numbers that are positive uses ‘0’ that is used as the first index and ‘1’ as the second index and the process goes on like that.</p><p>The index for the negative number starts from ‘-1’ that represents the last index in the sequence and ‘-2’ as the penultimate index and the sequence carries forward like the positive number.</p><p>The negative index is used to remove any new-line spaces from the string and allow the string to except the last character that is given as S[:-1]. The negative index is also used to show the index to represent the string in the correct order.&nbsp;</p><p><strong>28. Explain the use of decorators?</strong><br><strong>Answer: </strong>Decorators in Python are used to modify or inject code in functions or classes. Using decorators, you can wrap a class or function method call so that a piece of code can be executed before or after the execution of the original code. Decorators can be used to check for permissions, modify or track the arguments passed to a method, logging the calls to a specific method, etc.</p><p><strong>29. What is the difference between NumPy and SciPy?</strong><br><strong>Answer: </strong>In an ideal world, NumPy would contain nothing but the array data type and the most basic operations: indexing, sorting, reshaping, basic elementwise functions, et cetera.<br>All numerical code would reside in SciPy. However, one of NumPy’s important goals is <a href="https://en.wikipedia.org/wiki/Python_(programming_language)" target="_blank" rel="noopener">compatibility</a>, so NumPy tries to retain all features supported by either of its predecessors.<br>Thus NumPy contains some linear algebra functions, even though these more properly belong in SciPy. In any case, SciPy contains more fully-featured versions of the linear algebra modules, as well as many other numerical algorithms.<br>If you are doing scientific computing with python, you should probably install both NumPy and SciPy. Most new features belong in SciPy rather than NumPy. (<a href="https://svrtechnologies.com/interview-questions-and-answers/" target="_blank" rel="noopener">interview questions and answers</a>)</p><p><strong>30. Does Python support interfaces like in Java?</strong><br><strong>Answer: </strong>Discuss.<br>Python does not provide interfaces like in Java. Abstract Base Class (ABC) and its feature are provided by the Python’s “ABC” module. Abstract Base Class is a mechanism for specifying what methods must be implemented by its implementation subclasses. The use of ABC’s provides a sort of “understanding” about methods and their expected behavior. This module was made available from Python 2.7 version onwards.</p><p><strong>31. What is Multithreading?</strong><br><strong>Answer: </strong>Thread Is a functionality or logic which can execute simultaneously along with the other part of the program<br>Thread is a lightweight process<br>Any program which is under execution is known as process<br>We can define the threads in python by overwriting run method of the Thread class<br>Thread class is a predefined class which is defined in the threading module<br>Thread in the module is a predefined module<br>If we call the run method directly the logic of the run method will be executed as a normal method logic<br>In order to execute the logic of the run method as we use the start method of thread class.<br>Example</p><p>Import threading<br>Class x(threading.Thread):<br>Def run(self):<br>For p in range(1, 101):<br>print(p)<br>Class y(threading.Thread):<br>Def run(self):<br>For q in range(1, 101):<br>print(q)<br>x1=x()<br>y1=y()<br>x1.start()<br>y1.start()</p><p><strong>32. How would you define a protected member in a Python class ?</strong><br><strong>Answer: </strong>All the members of a class in Python are public by default. You don’t need to define an access specifier for members of the class. By adding ‘_’ as a prefix to the member of a class, by convention you are telling others please don’t this object, if you are not a subclass the respective class.<br>Eg: class Person:<br>empid = None<br>_salary = None #salary is a protected member &amp; it can access by the subclasses of Person.</p><p><strong>33. Name a few methods that are used to implement Functionally Oriented Programming in Python?</strong><br><strong>Answer: </strong>Python supports methods (called iterators in Python3), such as filter(), map(), and reduce(), that are very useful when you need to iterate over the items in a list, create a dictionary, or extract a subset of a list.<br>filter() – enables you to extract a subset of values based on conditional logic.<br>map() – it is a built-in function that applies the function to each item in an iterable.<br>reduce() – repeatedly performs a pair-wise reduction on a sequence until a single value is computed.30 Essential Python Interview Questions You Should Know.</p><p><strong>34. How is Python executed?</strong><br><strong>Answer: </strong>Python files are compiled to bytecode. which is then executed by the host.<br>Alternate Answer:<br>Type python .pv at the command line.</p><p><strong>35. What is the difference between .py and .pyc files?</strong><br><strong>Answer: </strong>python files are Python source files. .pyc files are the compiled bytecode files that are generated by the Python compiler. (<a href="https://svrtechnologies.com/python-training/" target="_blank" rel="noopener">Python Training Online</a>)</p><p><strong>36. How do you invoke the Python interpreter for interactive use?</strong><br><strong>Answer: </strong>python or python.y where x.y is the version of the Python interpreter desired.</p><p><strong>37. What is the process of compilation and linking in python?</strong><br><strong>Answer: </strong>The compiling and linking allows the new extensions to be compiled properly without any error and the linking can be done only when it passes the compiled procedure. If the dynamic loading is used then it depends on the style that is being provided with the system. The python interpreter can be used to provide the dynamic loading of the configuration setup files and will rebuild the interpreter.<br>The steps that are required in this as:<br>– Create a file with any name and in any language that is supported by the compiler of your system. For example comp.c<br>– Place this file in the Modules/ directory of the distribution which is getting used.<br>– Add a line in the file Setup.local that is present in the Modules/ directory.<br>– Run the file using spam comp.o<br>– After a successful run of this rebuild the interpreter by using the make command on the top-level directory.<br>– If the file is changed then run rebuildMakefile by using the command as ‘make Makefile’.</p><p><strong>38. What are tuples in Python?</strong><br><strong>Answer: </strong>A tuple is another sequence data type that is similar to the list. A tuple consists of a number of values separated by commas. Unlike lists, however, tuples are enclosed within parentheses.</p><p><strong>39. What happens if an error occurs that is not handled in the except block?</strong><br><strong>Answer: </strong>The program terminates. and an execution trace is sent to sys.stderr.</p><p><strong>40. How are Phon blocks defined?</strong><br><strong>Answer: </strong>By indents or tabs. This is different from most other languages which use symbols to define blocks. Indents in Python are significant.</p><p><strong>41. How do you execute a Python Script?</strong><br><strong>Answer: </strong>From the command line, type python .py or python.y.py where the x.y is the version of the Python interpreter desired.</p><p>Learn how to use Python, from beginner basics to advanced techniques.</p><p><strong>42. How to use GUI that comes with Python to test your code?</strong><br><strong>Answer: </strong>That is just an editor and a graphical version of the interactive shell. You write or load code and run it, or type it into the shell.<br>There is no automated testing.</p><p><strong>43. How will you convert a string to all lowercase?</strong><br><strong>Answer: </strong>lower() − Converts all uppercase letters in a string to lowercase.</p><p><strong>44. What is the Dictionary?</strong><br><strong>Answer: </strong>Dictionary objects can be created by using curly braces {} or by calling dictionary function<br>Dictionary objects are mutable objects<br>Dictionary represents a key-value base<br>Each key-value pair of Dictionary is known as an item<br>Dictionary keys must be immutable<br>Dictionary values can be mutable or immutable<br>Duplicate keys are not allowed but values can be duplicate<br>Insertion order is not preserved<br>Heterogeneous keys and heterogeneous values are allowed.</p><p><strong>45. How does the Python version numbering scheme work?</strong><br><strong>Answer: </strong>Python versions are numbered A.B.C or A.B.<br>A is the major version number. It is only incremented for major changes in the language.<br>B is the minor version number, incremented for less earth-shattering changes.<br>C is the micro-level. It is incremented for each bugfix release.<br>Not all releases are bug fix releases. In the run-up to a new major release, ‘A’ series of development releases are made denoted as alpha, beta, or release candidate.<br>Alphas are early releases in which interfaces aren’t finalized yet; it’s not unexpected to see an interface change between two alpha releases.<br>Betas are more stable, preserving existing interfaces but possibly adding new modules, and release candidates are frozen, making no changes except as needed to fix critical bugs.<br>Alpha, beta and release candidate versions have an additional suffix.<br>The suffix for an alpha version is “aN” for some small number N,<br>The suffix for a beta version is “bN” for some small number N,<br>And the suffix for a release candidate version is “CN” for some small number N.<br>In other words, all versions labeled 2.0aN precede the versions labeled 2.0bN, which precede versions labeled 2.0cN, and those precede 2.0.<br>You may also find version numbers with a “+” suffix, e.g. “2.2+”. These are unreleased versions, built directly from the subversion trunk. In practice, after a final minor release is made, the subversion trunk is incremented to the next minor version, which becomes the “a0” version, e.g. “2.4a0”.</p><p><strong>46. How do you perform pattern matching in Python?</strong><br><strong>Answer: </strong>Regular Expressions/REs/ regexes enable us to specify expressions that can match specific “parts” of a given string. For instance, we can define a regular expression to match a single character or a digit, a telephone number, or an email address, etc. The Python’s “re” module provides regular expression patterns and was introduce from later versions of Python 2.5. “re” module is providing methods for search text strings, or replacing text strings along with methods for splitting text strings based on the pattern defined.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3b702b72 elementor-widget elementor-widget-heading" data-id="3b702b72" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">All Python Interview Questions</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6ee33552 elementor-widget elementor-widget-divider" data-id="6ee33552" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6f8eaebc elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="6f8eaebc" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-grid elementor-posts--skin-cards elementor-has-item-ratio">
+				<article class="elementor-post elementor-grid-item post-540274 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-common-python-interview-questions tag-interview-questions-on-python tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-interview-coding-questions tag-python-interview-questions tag-python-interview-questions-and-answers tag-python-interview-questions-pdf tag-python-programming-interview-questions tag-python-technical-interview-questions">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-pdf/">
+			<div class="elementor-post__thumbnail"><img width="300" height="94" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/paython-300x94.jpg" class="attachment-medium size-medium" alt="python interview questions" srcset="https://svrtechnologies.com/wp-content/uploads/2019/05/paython-300x94.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython-768x240.jpg 768w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-pdf/">
+				Python Interview Questions Pdf – 2019 Updated			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-pdf/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			May 3, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-540264 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-common-python-interview-questions tag-interview-questions-on-python tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-interview-coding-questions tag-python-interview-questions tag-python-interview-questions-and-answers tag-python-interview-questions-pdf tag-python-programming-interview-questions tag-python-technical-interview-questions">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://svrtechnologies.com/python-interview-questions/interview-questions-on-python/">
+			<div class="elementor-post__thumbnail"><img width="300" height="94" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/paython-300x94.jpg" class="attachment-medium size-medium" alt="python interview questions" srcset="https://svrtechnologies.com/wp-content/uploads/2019/05/paython-300x94.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython-768x240.jpg 768w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://svrtechnologies.com/python-interview-questions/interview-questions-on-python/">
+				Interview Questions on Python – Best 47 Freshers and Experienced			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://svrtechnologies.com/python-interview-questions/interview-questions-on-python/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			May 3, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-540252 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-common-python-interview-questions tag-interview-questions-on-python tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-interview-coding-questions tag-python-interview-questions tag-python-interview-questions-and-answers tag-python-interview-questions-pdf tag-python-programming-interview-questions tag-python-technical-interview-questions">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://svrtechnologies.com/python-interview-questions/python-programming-interview-questions/">
+			<div class="elementor-post__thumbnail"><img width="300" height="94" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/paython-300x94.jpg" class="attachment-medium size-medium" alt="python interview questions" srcset="https://svrtechnologies.com/wp-content/uploads/2019/05/paython-300x94.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython-768x240.jpg 768w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://svrtechnologies.com/python-interview-questions/python-programming-interview-questions/">
+				Python Programming Interview Questions – Top 55 Updated For Beginners			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://svrtechnologies.com/python-interview-questions/python-programming-interview-questions/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			May 3, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-540235 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-common-python-interview-questions tag-interview-questions-on-python tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-interview-coding-questions tag-python-interview-questions tag-python-interview-questions-and-answers tag-python-interview-questions-pdf tag-python-programming-interview-questions tag-python-technical-interview-questions">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://svrtechnologies.com/python-interview-questions/python-coding-interview-questions/">
+			<div class="elementor-post__thumbnail"><img width="300" height="94" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/paython-300x94.jpg" class="attachment-medium size-medium" alt="python interview questions" srcset="https://svrtechnologies.com/wp-content/uploads/2019/05/paython-300x94.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython-768x240.jpg 768w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://svrtechnologies.com/python-interview-questions/python-coding-interview-questions/">
+				Python Coding Interview Questions – Top 41 – 2019 Latest			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://svrtechnologies.com/python-interview-questions/python-coding-interview-questions/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			May 2, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-540220 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-common-python-interview-questions tag-interview-questions-on-python tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-interview-coding-questions tag-python-interview-questions tag-python-interview-questions-and-answers tag-python-interview-questions-pdf tag-python-programming-interview-questions tag-python-technical-interview-questions">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-and-answers/">
+			<div class="elementor-post__thumbnail"><img width="300" height="94" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/paython-300x94.jpg" class="attachment-medium size-medium" alt="python interview questions" srcset="https://svrtechnologies.com/wp-content/uploads/2019/05/paython-300x94.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython-768x240.jpg 768w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-and-answers/">
+				Python Interview Questions and Answers			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-and-answers/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			May 2, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-540208 post type-post status-publish format-standard has-post-thumbnail hentry category-python-interview-questions tag-common-python-interview-questions tag-interview-questions-on-python tag-python-coding-interview-questions tag-python-developer-interview-questions tag-python-interview-coding-questions tag-python-interview-questions tag-python-programming-interview-questions tag-python-technical-interview-questions">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-top-51/">
+			<div class="elementor-post__thumbnail"><img width="300" height="94" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/paython-300x94.jpg" class="attachment-medium size-medium" alt="python interview questions" srcset="https://svrtechnologies.com/wp-content/uploads/2019/05/paython-300x94.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython-768x240.jpg 768w, https://svrtechnologies.com/wp-content/uploads/2019/05/paython.jpg 800w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-top-51/">
+				Python Interview Questions and Answers – The Best 2019 Latest Top 51			</a>
+		</h3>
+					<a class="elementor-post__read-more" href="https://svrtechnologies.com/python-interview-questions/python-interview-questions-top-51/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			May 2, 2019		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-63558704 elementor-align-center elementor-widget elementor-widget-button" data-id="63558704" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://svrtechnologies.com/python-interview-questions/" class="elementor-button-link elementor-button elementor-size-sm" target="_blank" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">All Questions</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-16726891 elementor-column elementor-col-33 elementor-top-column" data-id="16726891" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-798205ae elementor-column elementor-col-33 elementor-top-column" data-id="798205ae" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-79efe412 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section elementor-sticky" data-id="79efe412" data-element_type="section" data-settings="{&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-399045e3 elementor-column elementor-col-100 elementor-inner-column" data-id="399045e3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-534c80c elementor-widget elementor-widget-price-table" data-id="534c80c" data-element_type="widget" data-widget_type="price-table.default">
+				<div class="elementor-widget-container">
+			
+		<div class="elementor-price-table">
+							<div class="elementor-price-table__header">
+											<h3 class="elementor-price-table__heading">Python Training Videos</h3>
+					
+											<span class="elementor-price-table__subheading">Duration: 20 Hours | Version: 2.7, 3.7 </span>
+									</div>
+			
+			<div class="elementor-price-table__price">
+																	<span class="elementor-price-table__integer-part">999/-</span>
+				
+				
+				
+							</div>
+
+							<ul class="elementor-price-table__features-list">
+											<li class="elementor-repeater-item-6b9fc7e">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Experienced Faculty									</span>
+																</div>
+						</li>
+											<li class="elementor-repeater-item-8c3df4e">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Real-time Scenarios									</span>
+																</div>
+						</li>
+											<li class="elementor-repeater-item-2b386d9">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Free Bundle Access									</span>
+																</div>
+						</li>
+											<li class="elementor-repeater-item-9d86e9f">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Course Future Updates									</span>
+																</div>
+						</li>
+											<li class="elementor-repeater-item-1e25f11">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Sample CV/Resume									</span>
+																</div>
+						</li>
+											<li class="elementor-repeater-item-603665e">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Interview Q&amp;A									</span>
+																</div>
+						</li>
+											<li class="elementor-repeater-item-17af5b6">
+							<div class="elementor-price-table__feature-inner">
+																	<i class="fa fa-check-circle" aria-hidden="true"></i>
+																									<span>
+										Complimentary Materials									</span>
+																</div>
+						</li>
+									</ul>
+			
+							<div class="elementor-price-table__footer">
+											<a class="elementor-price-table__button elementor-button elementor-size-md" href="https://www.svrtechnologies.video/courses?query=python" target="_blank">Check Videos</a>
+					
+									</div>
+					</div>
+
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-166862fe elementor-widget elementor-widget-spacer" data-id="166862fe" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-785757a8 elementor-widget elementor-widget-spacer" data-id="785757a8" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<span class="cp-load-after-post"></span>
+		
+		
+			</div><!-- .entry-content .clear -->
+</div>
+
+	
+</article><!-- #post-## -->
+
+
+	<nav class="navigation post-navigation" role="navigation">
+		<h2 class="screen-reader-text">Post navigation</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://svrtechnologies.com/qtp-interview-questions/top-48-qtp-interview-questions-and-answers/" rel="prev"><span class="ast-left-arrow">←</span> Previous Post</a></div><div class="nav-next"><a href="https://svrtechnologies.com/datapower-interview-questions/top-50-ibm-datapower-interview-questions-and-answers-pdf/" rel="next">Next Post <span class="ast-right-arrow">→</span></a></div></div>
+	</nav>
+					
+					
+				
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+			
+			</div> <!-- ast-container -->
+
+		</div><!-- #content -->
+
+		
+		
+		<footer class="ast-custom-footer" itemscope="itemscope" itemtype="https://schema.org/WPFooter"><div class="astra-advanced-hook-3052589">		<div data-elementor-type="wp-post" data-elementor-id="3052589" class="elementor elementor-3052589" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-d925b6b elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d925b6b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1349px; left: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-972a484 elementor-column elementor-col-100 elementor-top-column" data-id="972a484" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-398d60e elementor-widget elementor-widget-spacer" data-id="398d60e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6772039 elementor-widget elementor-widget-image" data-id="6772039" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="948" height="270" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/foter-call-to-action-09071901-min.jpg" class="attachment-large size-large" alt="footer call to action" srcset="https://svrtechnologies.com/wp-content/uploads/2019/08/foter-call-to-action-09071901-min.jpg 948w, https://svrtechnologies.com/wp-content/uploads/2019/08/foter-call-to-action-09071901-min-300x85.jpg 300w, https://svrtechnologies.com/wp-content/uploads/2019/08/foter-call-to-action-09071901-min-768x219.jpg 768w" sizes="(max-width: 948px) 100vw, 948px">											</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-adf4b93 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="adf4b93" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-16af307 elementor-column elementor-col-100 elementor-inner-column" data-id="16af307" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-eeff4a0 elementor-widget elementor-widget-heading" data-id="eeff4a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Contact Course Advisor</p>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a0ac7d8 elementor-align-center elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="a0ac7d8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://wa.me/919885022027" class="elementor-button-link elementor-button elementor-size-lg" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">+91 988 502 2027</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-9db28f8 elementor-widget elementor-widget-spacer" data-id="9db28f8" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7a5e65e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7a5e65e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-62144c1 elementor-column elementor-col-100 elementor-top-column" data-id="62144c1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5c33ec8 elementor-widget elementor-widget-spacer" data-id="5c33ec8" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-86cc7b7 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="86cc7b7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-029d91b elementor-column elementor-col-33 elementor-inner-column" data-id="029d91b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-38a70f7 elementor-widget elementor-widget-spacer" data-id="38a70f7" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2b23982 elementor-widget elementor-widget-heading" data-id="2b23982" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Address</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-876e752 elementor-widget elementor-widget-divider" data-id="876e752" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c5e006d elementor-widget elementor-widget-text-editor" data-id="c5e006d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><strong>India:</strong> <i class="fa fa-map-marker" aria-hidden="true"></i> Near Dwaraka Nagar,<br>Visakhapatnam, AP – 530016.</p><p><strong>USA: </strong>2000 SE St. Andrews blvd,<br>Apt #11, Bentonville, AR 72712.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-c0b2a70 elementor-shape-circle elementor-widget elementor-widget-social-icons" data-id="c0b2a70" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper">
+							<a href="https://www.facebook.com/svrtechnologies/" class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-4a0f1c2" target="_blank">
+					<span class="elementor-screen-only">Facebook-f</span>
+					<i class="fab fa-facebook-f"></i>				</a>
+							<a href="https://twitter.com/svrtechnologie" class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-c32bee6" target="_blank">
+					<span class="elementor-screen-only">Twitter</span>
+					<i class="fab fa-twitter"></i>				</a>
+							<a href="https://www.youtube.com/user/svrtechnologies" class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-2384f5f" target="_blank">
+					<span class="elementor-screen-only">Youtube</span>
+					<i class="fab fa-youtube"></i>				</a>
+							<a href="https://in.linkedin.com/company/svr-technologies" class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-a3a6116" target="_blank">
+					<span class="elementor-screen-only">Linkedin</span>
+					<i class="fab fa-linkedin"></i>				</a>
+							<a href="https://www.instagram.com/svrtechnologie/" class="elementor-icon elementor-social-icon elementor-social-icon-instagram elementor-repeater-item-7b751ea" target="_blank">
+					<span class="elementor-screen-only">Instagram</span>
+					<i class="fab fa-instagram"></i>				</a>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-32476c6 elementor-column elementor-col-33 elementor-inner-column" data-id="32476c6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ed27623 elementor-widget elementor-widget-spacer" data-id="ed27623" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-cee5642 elementor-widget elementor-widget-heading" data-id="cee5642" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Trending Courses</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a87f9d1 elementor-widget elementor-widget-divider" data-id="a87f9d1" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6f5f221 elementor-widget elementor-widget-text-editor" data-id="6f5f221" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a style="color: #ffffff;" href="https://svrtechnologies.com/data-science-training/" target="_blank" rel="noopener">Data Science Training</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/artificial-intelligence-training/" target="_blank" rel="noopener">Artificial Intelligence</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/iot-training/" target="_blank" rel="noopener">IOT Training</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/python-training/" target="_blank" rel="noopener">Python Training</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/machine-learning-training/" target="_blank" rel="noopener">Machine Learning</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/mulesoft-training/" target="_blank" rel="noopener">Mulesoft Training</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/pivotal-training/" target="_blank" rel="noopener">Pivotal Training</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0466b98 elementor-column elementor-col-33 elementor-inner-column" data-id="0466b98" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4aa1764 elementor-widget elementor-widget-spacer" data-id="4aa1764" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4db5160 elementor-widget elementor-widget-heading" data-id="4db5160" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">About SVR</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-64dcd0c elementor-widget elementor-widget-divider" data-id="64dcd0c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-52981ef elementor-widget elementor-widget-text-editor" data-id="52981ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><a style="color: #ffffff;" href="https://svrtechnologies.com/frequently-asked-questions" target="_blank" rel="noopener">FAQ</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/blog" target="_blank" rel="noopener">Blog</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/sitemap_index.xml" target="_blank" rel="noopener">Sitemap</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/about-us" target="_blank" rel="noopener">About Us</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/terms-of-services" target="_blank" rel="noopener">Refund Policy</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a><br><a style="color: #ffffff;" href="https://svrtechnologies.com/student-reviews/" target="_blank" rel="noopener">Student Reviews</a></p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-4d82e8f elementor-widget elementor-widget-divider" data-id="4d82e8f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-17d45ef elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="17d45ef" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-22cd1e2 elementor-column elementor-col-33 elementor-inner-column" data-id="22cd1e2" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5356b4c elementor-column elementor-col-33 elementor-inner-column" data-id="5356b4c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2414b27 elementor-widget elementor-widget-heading" data-id="2414b27" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Become An Instructor</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3800cc9 elementor-align-justify elementor-widget elementor-widget-button" data-id="3800cc9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://svrtechnologies.com/faculty-registration/" class="elementor-button-link elementor-button elementor-size-sm" target="_blank" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Register</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-178f1af elementor-column elementor-col-33 elementor-inner-column" data-id="178f1af" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-977ec17 elementor-widget elementor-widget-spacer" data-id="977ec17" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4fa59b2 elementor-widget elementor-widget-divider" data-id="4fa59b2" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-383c617 elementor-widget elementor-widget-text-editor" data-id="383c617" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Disclaimer: Logos &amp; TradeMarks belongs to respective companies. We are not the copyright owners of any software you view on our website.</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b0a4aa3 elementor-widget elementor-widget-spacer" data-id="b0a4aa3" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		</div></footer>
+		
+	</div><!-- #page -->
+
+	
+	<script type="text/javascript">
+/* <![CDATA[ */
+var hasJetBlogPlaylist = 0;
+/* ]]> */
+</script>
+				<script type="text/javascript" id="modal">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1572612269 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				<style type="text/css">.content-5dbc28ad1e51d .cp-modal-body { 		min-height:50px;}</style><link rel="stylesheet" type="text/css" id="cp-google-fonts" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/css(1)" media="all" onload="if(media!=&quot;all&quot;)media=&quot;all&quot;">				
+		
+		<!-- .cp-modal-popup-container -->
+		<style type="text/css"></style><link rel="stylesheet" type="text/css" id="cp-google-fonts" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/css(1)" media="all" onload="if(media!=&quot;all&quot;)media=&quot;all&quot;">				
+		
+		<!-- .cp-modal-popup-container -->
+						<script type="text/javascript" id="info-bar">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1572612269 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+								<script type="text/javascript" id="slidein">
+					document.addEventListener("DOMContentLoaded", function(){
+						startclock();
+					});
+					function stopclock (){
+						if(timerRunning) clearTimeout(timerID);
+						timerRunning = false;
+						//document.cookie="time=0";
+					}
+
+					function showtime () {
+						var now = new Date();
+						var my = now.getTime() ;
+						now = new Date(my-diffms) ;
+						//document.cookie="time="+now.toLocaleString();
+						timerID = setTimeout('showtime()',10000);
+						timerRunning = true;
+					}
+
+					function startclock () {
+						stopclock();
+						showtime();
+					}
+					var timerID = null;
+					var timerRunning = false;
+					var x = new Date() ;
+					var now = x.getTime() ;
+					var gmt = 1572612269 * 1000 ;
+					var diffms = (now - gmt) ;
+				</script>
+				
+			<span class="wptwa-flag"></span>
+			<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+				<symbol id="wptwa-logo">
+					<path id="WhatsApp" d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522   c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982   c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537   c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938   c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537   c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333   c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882   c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977   c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344   c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223   C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z"></path>
+				</symbol>
+			</svg>
+			<a id="ast-scroll-top" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both" style="display: block;">
+	<span class="screen-reader-text">Scroll to Top</span>
+</a>
+<link rel="stylesheet" id="blank-cp_id_2ae7d-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/blank.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="blank-cp_id_5580e-css" href="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/blank.min.css" type="text/css" media="all">
+<script type="text/javascript">
+/* <![CDATA[ */
+var ajax_object = {"ajax_url":"https:\/\/svrtechnologies.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/public.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var astra = {"break_point":"921","isRtl":"","query_vars":"{\"page\":\"\",\"name\":\"top-46-python-interview-questions-and-answers-pdf\",\"category_name\":\"python-interview-questions\"}","edit_post_url":"https:\/\/svrtechnologies.com\/wp-admin\/post.php?post={{id}}&action=edit","ajax_url":"https:\/\/svrtechnologies.com\/wp-admin\/admin-ajax.php","infinite_count":"2","infinite_total":"0","pagination":"number","infinite_scroll_event":"scroll","infinite_nonce":"602ba66086","no_more_post_message":"No more posts to show.","grid_layout":"1","site_url":"https:\/\/svrtechnologies.com","show_comments":"Show Comments","masonryEnabled":"","blogMasonryBreakPoint":"768"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/style.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var astraAddon = {"sticky_active":"","hook_sticky_header":"","hook_shrink_header":"","hook_sticky_header_on_devices":"desktop","hook_custom_header_break_point":"921","hook_sticky_footer":"","hook_sticky_footer_on_devices":"desktop","hook_custom_footer_break_point":"921","header_main_stick":"0","header_above_stick":"0","header_below_stick":"0","stick_header_meta":"enabled","header_main_stick_meta":"on","header_above_stick_meta":"","header_below_stick_meta":"","sticky_header_on_devices":"desktop","sticky_header_style":"none","sticky_hide_on_scroll":"0","break_point":"921","header_main_shrink":"1","header_logo_width":"","responsive_header_logo_width":{"desktop":"","tablet":"","mobile":""},"stick_origin_position":"","site_layout":"ast-full-width-layout","site_content_width":"1240","site_layout_padded_width":"1200","site_layout_box_width":"1200"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/astra-addon-5da80e5de552b3-79567333.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/wp-embed.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/jquery.smartmenus.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/imagesloaded.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/slick.min.js.download"></script>
+<script type="text/javascript" defer="defer" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/cp-module-main.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var smile_ajax = {"url":"https:\/\/svrtechnologies.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/modal.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/jquery.sticky.min.js.download"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/svrtechnologies.com\/wp-admin\/admin-ajax.php","nonce":"afbe2f3c54","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/frontend.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/frontend-modules.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/position.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/dialog.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/waypoints.min.js.download"></script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/swiper.min.js.download"></script>
+<script type="text/javascript">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.7.5","urls":{"assets":"https:\/\/svrtechnologies.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":19159,"title":"Top 46 Python Interview Questions And Answers Pdf - 2019 Latest","excerpt":"\n\t\t\t\t\t\t"}};
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/frontend.min.js(1).download"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+<script type="text/javascript">
+/* <![CDATA[ */
+var JetBlogSettings = {"ajaxurl":"https:\/\/svrtechnologies.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/jet-blog.min.js.download"></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+			
+	
+
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.w3-edge.com/products/
+
+Page Caching using disk: enhanced 
+
+Served from: svrtechnologies.com @ 2019-11-01 12:44:29 by W3 Total Cache
+--><div data-form-layout="" class="cp-module cp-modal-popup-container  cp_id_2ae7d cp-blank-container " data-style-id="cp_id_2ae7d" data-module-name="modal" data-close-gravity="1">
+			<div class="content-5dbc28ad1e51d cp-overlay smile-bounceInDown global_modal_container cp-window-overlay cp-visited-popup cp_impression_counted ps-container" data-scheduled="false" data-closed-cookie-time="0" data-conversion-cookie-time="1" data-modal-id="cp_id_2ae7d" data-modal-style="cp_id_2ae7d" data-option="smile_modal_styles" data-placeholder-font="inherit" data-custom-class="cp-cp_id_2ae7d cp-modal-global" data-class="content-5dbc28ad1e51d" data-load-on-refresh="enabled" data-load-on-count="" data-affiliate_setting="0" data-overlay-animation="smile-bounceInDown" data-tz-offset="0" data-image-position="" data-placeholder-color="" data-timezonename="wordpress" data-timezone="0" style="" id="cp_id_2ae7d-1" data-ps-id="28bcb555-7ec8-74f0-9743-c9e29164cb48">
+				<div class="cp-overlay-background" style=" background-color:rgba(0,0,0,0.65);"></div>	<div class="cp-modal cp-modal-window-size" style="">
+					<div class="cp-animate-container smile-animated" data-overlay-animation="smile-bounceInDown" data-exit-animation="smile-bounceOutRight">
+						<div class="cp-modal-content " style="border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;border-style: none;border-color: rgb(0,0,0);border-width:  px;border-width:5px;" data-height="15436">	
+													<div class="cp-modal-body-overlay cp_fs_overlay" style="background-color:rgba(255,0,0,0.01);;;"></div>
+									
+							<div class="cp-modal-body cp-blank  cp-no-padding " style="max-width: 500px">
+																		<!-- BEFORE CONTENTS -->
+		<div class="cp-row cp-row-center">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 cp-row-equalized-center cp_responsive" data-font-size-init="13px" data-line-height-init="21.32px" style="line-height: 21.32px; font-size: 13px;">
+				<a href="https://www.svrtechnologies.video/courses?query=python" target="_blank"><img alt="Girl in a jacket" height="100%" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/python-001-min.png" width="100%"></a>			</div>
+		</div>
+		<!-- AFTER CONTENTS -->
+				<input type="hidden" class="cp-impress-nonce" name="cp-impress-nonce" value="a0506122e4">
+
+	</div><!-- .cp-modal-body -->
+
+		</div><!-- .cp-modal-content -->
+
+		
+			</div><!-- .cp-animate-container -->
+
+		
+</div><!-- .cp-modal -->
+
+		<!-- .affiliate link for fullscreen -->
+
+			<div class="cp-overlay-close cp-outside-close cp-image-close  cp-adjacent-right" style="width: 32px">
+						<img class="cp-close-img " alt="close-link" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/default.png">					</div>
+			<div class="ps-scrollbar-x-rail" style="left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div></div><!-- .cp-overlay -->
+</div><div data-class-id="content-5dbc28ad1e51d" data-referrer-domain="" data-referrer-check="hide" data-after-content-value="50" data-overlay-class="overlay-zoomin" data-onload-delay="1" data-onscroll-value="" data-exit-intent="disabled" data-add-to-cart="0" data-closed-cookie-time="0" data-conversion-cookie-time="1" data-modal-id="cp_id_2ae7d" data-modal-style="cp_id_2ae7d" data-option="smile_modal_styles" data-custom-class="cp-cp_id_2ae7d cp-modal-global" data-load-on-refresh="enabled" data-dev-mode="disabled" data-custom-selector="" class="overlay-show cp-onload cp-global-load  cp-cp_id_2ae7d cp-modal-global" data-module-type="modal"></div><div data-form-layout="" class="cp-module cp-modal-popup-container  cp_id_5580e cp-blank-container " data-style-id="cp_id_5580e" data-module-name="modal" data-close-gravity="1">
+			<div class="content-5dbc28ad1f7c0 cp-overlay smile-3DRotateBottom global_modal_container cp-visited-popup cp_impression_counted ps-container" data-scheduled="false" data-closed-cookie-time="0" data-conversion-cookie-time="0" data-modal-id="cp_id_5580e" data-modal-style="cp_id_5580e" data-option="smile_modal_styles" data-placeholder-font="inherit" data-custom-class="cp-cp_id_5580e cp-modal-global" data-class="content-5dbc28ad1f7c0" data-load-on-refresh="enabled" data-load-on-count="" data-affiliate_setting="0" data-overlay-animation="smile-3DRotateBottom" data-tz-offset="0" data-image-position="" data-placeholder-color="" data-timezonename="wordpress" data-timezone="0" style="background-image: url(&quot;&quot;); background-repeat: no-repeat; background-position: center center; background-size: cover;" id="cp_id_5580e-1" data-ps-id="5b2672e6-92ed-f797-8dd5-a11e4e3a3ae5">
+				<div class="cp-overlay-background" style=" background-color:rgba(10,0,0,0.75);"></div>	<div class="cp-modal cp-modal-custom-size" style="width:100%;height:447;max-width:550px;">
+					<div class="cp-animate-container smile-animated" data-overlay-animation="smile-3DRotateBottom" data-exit-animation="smile-bounceOutDown">
+						<div class="cp-modal-content " style="border-radius: 0px;-moz-border-radius: 0px;-webkit-border-radius: 0px;border-style: none;border-color: rgb(0,0,0);border-width:  px;border-width:5px;">	
+								
+							<div class="cp-modal-body cp-blank  cp-no-padding " style="">
+																<div class="cp-modal-body-overlay cp_cs_overlay" style="background-color:rgba(255,0,0,0.01);;;"></div>
+																		<!-- BEFORE CONTENTS -->
+		<div class="cp-row ">
+			<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12  cp_responsive" data-font-size-init="13px" data-line-height-init="21.32px" style="line-height: 21.32px; font-size: 13px;">
+				&nbsp;<a href="https://api.whatsapp.com/send?phone=919885022027" target="_blank"><img alt="Girl in a jacket" height="100%" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/self-learning-course-022.jpg" width="100%"></a>			</div>
+		</div>
+		<!-- AFTER CONTENTS -->
+				<input type="hidden" class="cp-impress-nonce" name="cp-impress-nonce" value="a0506122e4">
+
+	</div><!-- .cp-modal-body -->
+
+		</div><!-- .cp-modal-content -->
+
+		
+		
+				<div class="cp-overlay-close cp-image-close cp-inside-close cp-adjacent-right" style="width: 32px">
+						<img class="cp-close-img " alt="close-link" src="./Top 46 Python Interview Questions And Answers Pdf - 2019 Latest_files/default.png">					</div>
+
+					</div><!-- .cp-animate-container -->
+
+		
+</div><!-- .cp-modal -->
+
+		<!-- .affiliate link for fullscreen -->
+
+			<div class="ps-scrollbar-x-rail" style="left: 0px; bottom: 3px;"><div class="ps-scrollbar-x" style="left: 0px; width: 0px;"></div></div><div class="ps-scrollbar-y-rail" style="top: 0px; right: 3px;"><div class="ps-scrollbar-y" style="top: 0px; height: 0px;"></div></div></div><!-- .cp-overlay -->
+</div><div data-class-id="content-5dbc28ad1f7c0" data-referrer-domain="" data-referrer-check="hide" data-after-content-value="50" data-overlay-class="overlay-zoomin" data-onload-delay="" data-onscroll-value="" data-exit-intent="enabled" data-add-to-cart="0" data-closed-cookie-time="0" data-conversion-cookie-time="0" data-modal-id="cp_id_5580e" data-modal-style="cp_id_5580e" data-option="smile_modal_styles" data-custom-class="cp-cp_id_5580e cp-modal-global" data-load-on-refresh="enabled" data-dev-mode="enabled" data-custom-selector="" class="overlay-show cp-onload cp-global-load  cp-cp_id_5580e cp-modal-global" data-module-type="modal"></div></body></html>

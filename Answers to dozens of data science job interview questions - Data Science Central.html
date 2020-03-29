@@ -1,0 +1,1081 @@
+<!DOCTYPE html>
+<html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en"><head data-layout-view="default" class="xj_layout_head">
+
+<script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/amp4ads-host-v0.js"></script><script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/pubads_impl_rendering_2019070801.js"></script><script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/sdk_002.js" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/ec.js"></script><script type="text/javascript" async="" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/analytics.js"></script><script type="text/javascript" async="" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/atrk.js"></script><script id="twitter-wjs" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/widgets.js"></script><script type="text/javascript" async="" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/analytics.js"></script><script async="" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/gtm.js"></script><script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/LLC14SA6dp973RME0CSuEuuFDAo.js"></script><script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/Bs2Uot6PssXFR_FR4MUMnQbAl3A.js"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-T5W4WQ');</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Answers to dozens of data science job interview questions - Data Science Central</title>
+<link rel="icon" href="https://www.datasciencecentral.com/favicon.ico" type="image/x-icon">
+<link rel="SHORTCUT ICON" href="https://www.datasciencecentral.com/favicon.ico" type="image/x-icon">
+<meta name="description" content="We just started in this article to provide answers to one of the largest collection of data science job interview questions ever published, and we will continu…">
+<meta name="title" content="Answers to dozens of data science job interview questions">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.datasciencecentral.com/profiles/blogs/answers-to-dozens-of-data-science-job-interview-questions?xg_source=activity">
+<meta property="og:title" content="Answers to dozens of data science job interview questions">
+<meta property="og:image" content="http://storage.ning.com/topology/rest/1.0/file/get/1328085?profile=original">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Answers to dozens of data science job interview questions">
+<meta name="twitter:description" content="We just started in this article to provide answers to one of the largest collection of data science job interview questions ever published, and we will continu…">
+<meta name="twitter:image" content="http://storage.ning.com/topology/rest/1.0/file/get/1328085?profile=original">
+<link rel="image_src" href="https://storage.ning.com/topology/rest/1.0/file/get/1328085?profile=original">
+<script type="text/javascript">
+    djConfig = { preventBackButtonFix: false, isDebug: false }
+ning = {"CurrentApp":{"premium":true,"iconUrl":"https:\/\/storage.ning.com\/topology\/rest\/1.0\/file\/get\/2751248758?profile=UPSCALE_150x150","url":"httpsdatasciencecentral.ning.com","domains":["datasciencecentral.com"],"online":true,"privateSource":true,"id":"datasciencecentral","appId":"6448529","description":"Welcome to Data Science Central. The Community of and for Data Scientist","name":"Data Science Central","owner":"2edcolrgc4o4b","createdDate":"2011-10-05T21:11:40.055Z","runOwnAds":false,"category":{"Predictive":null,"Business":null,"Data":null,"Analytics":null,"Mining":null,"R":null,"Intelligence":null,"Big":null,"Modeling":null,"Science":null,"Integration":null,"Visualization":null},"tags":["Predictive","Business","Data","Analytics","Mining","R","Intelligence","Big","Modeling","Science","Integration","Visualization"]},"CurrentProfile":null,"maxFileUploadSize":7};
+        (function(){
+            if (!window.ning) { return; }
+
+            var age, gender, rand, obfuscated, combined;
+
+            obfuscated = document.cookie.match(/xgdi=([^;]+)/);
+            if (obfuscated) {
+                var offset = 100000;
+                obfuscated = parseInt(obfuscated[1]);
+                rand = obfuscated / offset;
+                combined = (obfuscated % offset) ^ rand;
+                age = combined % 1000;
+                gender = (combined / 1000) & 3;
+                gender = (gender == 1 ? 'm' : gender == 2 ? 'f' : 0);
+                ning.viewer = {"age":age,"gender":gender};
+            }
+        })();
+
+        if (window.location.hash.indexOf('#!/') == 0) {
+        window.location.replace(window.location.hash.substr(2));
+    }
+    window.xg = window.xg || {};
+xg.captcha = {
+    'shouldShow': false,
+    'siteKey': '6Ldf3AoUAAAAALPgNx2gcXc8a_5XEcnNseR6WmsT'
+};
+xg.addOnRequire = function(f) { xg.addOnRequire.functions.push(f); };
+xg.addOnRequire.functions = [];
+xg.addOnFacebookLoad = function (f) { xg.addOnFacebookLoad.functions.push(f); };
+xg.addOnFacebookLoad.functions = [];
+xg._loader = {
+    p: 0,
+    loading: function(set) {  this.p++; },
+    onLoad: function(set) {
+                this.p--;
+        if (this.p == 0 && typeof(xg._loader.onDone) == 'function') {
+            xg._loader.onDone();
+        }
+    }
+};
+xg._loader.loading('xnloader');
+if (window.bzplcm) {
+    window.bzplcm._profileCount = 0;
+    window.bzplcm._profileSend = function() { if (window.bzplcm._profileCount++ == 1) window.bzplcm.send(); };
+}
+xg._loader.onDone = function() {
+            if(window.bzplcm)window.bzplcm.start('ni');
+        xg.shared.util.parseWidgets();    var addOnRequireFunctions = xg.addOnRequire.functions;
+    xg.addOnRequire = function(f) { f(); };
+    try {
+        if (addOnRequireFunctions) { dojo.lang.forEach(addOnRequireFunctions, function(onRequire) { onRequire.apply(); }); }
+    } catch (e) {
+        if(window.bzplcm)window.bzplcm.ts('nx').send();
+        throw e;
+    }
+    if(window.bzplcm) { window.bzplcm.stop('ni'); window.bzplcm._profileSend(); }
+};
+window.xn = { track: { event: function() {}, pageView: function() {}, registerCompletedFlow: function() {}, registerError: function() {}, timer: function() { return { lapTime: function() {} }; } } };</script>
+<meta name="medium" content="blog"><link rel="alternate" type="application/atom+xml" title="Vincent Granville's Posts - Data Science Central" href="https://www.datasciencecentral.com/profiles/blog/feed?user=3v6n5b6g08kgn&amp;xn_auth=no"><link rel="alternate" type="application/atom+xml" title="Comments - Answers to dozens of data science job interview questions - Data Science Central" href="https://www.datasciencecentral.com/profiles/comment/feed?attachedTo=6448529%3ABlogPost%3A414804&amp;xn_auth=no">
+<style type="text/css" media="screen,projection">
+@import url(https://static.ning.com/socialnetworkmain/widgets/index/css/common-982.min.css?xn_version=1164545931);
+@import url(https://static.ning.com/socialnetworkmain/widgets/profiles/css/component.min.css?xn_version=467783652);
+
+</style>
+<style type="text/css" media="screen,projection">
+@import url(https://storage.ning.com/topology/rest/1.0/file/get/1266467452?profile=original&xn_version=201906260700);
+
+</style>
+<style type="text/css" media="screen,projection">
+@import url(https://storage.ning.com/topology/rest/1.0/file/get/1184052371?profile=original&xn_version=201906260700);
+
+</style>
+<!--[if IE 6]>
+    <link rel="stylesheet" type="text/css" href="https://static.ning.com/socialnetworkmain/widgets/index/css/common-ie6.min.css?xn_version=463104712" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="https://static.ning.com/socialnetworkmain/widgets/index/css/common-ie7.css?xn_version=2712659298" />
+<![endif]-->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.datasciencecentral.com/profiles/blog/rsd">
+<link rel="stylesheet" href="data:text/css;charset=utf-8;base64,Y2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdLApjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gKiB7CiAgYm94LXNpemluZzogYm9yZGVyLWJveDsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIHsKICBkaXNwbGF5OiBub25lOwogIGZvbnQtc2l6ZTogMTJweDsKICBwb3NpdGlvbjogZml4ZWQ7CiAgei1pbmRleDogMTAwMDA7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXS5jZi1pbnZhbGlkIGNmLWRpYWxvZy1jb250ZW50LXRpdGxlLApjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0uY2YtaW52YWxpZCBjZi1kaWFsb2ctY2xvc2UtYnV0dG9uLApjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0uY2YtaW52YWxpZCBjZi1zaWdudXAtdGV4dCwKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdLmNmLWludmFsaWQgaW5wdXRbdHlwZT0ic3VibWl0Il0gewogIC13ZWJraXQtZmlsdGVyOiBibHVyKDJweCk7CiAgICAgICAgICBmaWx0ZXI6IGJsdXIoMnB4KTsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdW2RhdGEtdmlzaWJpbGl0eT0idmlzaWJsZSJdIHsKICBkaXNwbGF5OiBibG9jazsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdW2RhdGEtZ29hbD0ic2lnbnVwU3VjY2VzcyJdIHsKICB0ZXh0LWFsaWduOiBsZWZ0Owp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il1bZGF0YS1nb2FsPSJzaWdudXBTdWNjZXNzIl0gY2YtZGlhbG9nLWNvbnRlbnQtdGV4dCB7CiAgZGlzcGxheTogLW1zLWZsZXhib3g7CiAgZGlzcGxheTogZmxleDsKICAtbXMtZmxleC1mbG93OiBjb2x1bW47CiAgICAgIGZsZXgtZmxvdzogY29sdW1uOwogIC1tcy1mbGV4LXBhY2s6IGxlZnQ7CiAgICAgIGp1c3RpZnktY29udGVudDogbGVmdDsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdW2RhdGEtZ29hbD0ic2lnbnVwU3VjY2VzcyJdIGNmLXNpZ251cC10ZXh0IHsKICBkaXNwbGF5OiBibG9jazsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdW2RhdGEtZm9ybT0ic3VibWl0dGluZyJdIGNmLWRpYWxvZywKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdW2RhdGEtZ29hbD0ic3VibWl0dGluZyJdIGlucHV0W3R5cGU9InN1Ym1pdCJdIHsKICBjdXJzb3I6IHdhaXQ7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBjZi1kaWFsb2cgewogIGN1cnNvcjogZGVmYXVsdDsKICBkaXNwbGF5OiBibG9jazsKICB6LWluZGV4OiAyMDAwNTsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIC5jZi1icmFuZGluZywKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIC5jZi1icmFuZGluZzphY3RpdmUsCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSAuY2YtYnJhbmRpbmc6dmlzaXRlZCB7CiAgY29sb3I6ICMxMTEgIWltcG9ydGFudDsKICB0ZXh0LWRlY29yYXRpb246IG5vbmUgIWltcG9ydGFudDsKICB0ZXh0LWluZGVudDogMCAhaW1wb3J0YW50OwogIHBhZGRpbmc6IDAgIWltcG9ydGFudDsKICBmb250LXNpemU6IC44NWVtICFpbXBvcnRhbnQ7CiAgLW1zLWZsZXg6IDEgMCBhdXRvICFpbXBvcnRhbnQ7CiAgICAgIGZsZXg6IDEgMCBhdXRvICFpbXBvcnRhbnQ7CiAgd2lkdGg6IDEwMCUgIWltcG9ydGFudDsKICBkaXNwbGF5OiAtbXMtZmxleGJveCAhaW1wb3J0YW50OwogIGRpc3BsYXk6IGZsZXggIWltcG9ydGFudDsKICAtbXMtZmxleC1wYWNrOiBlbmQgIWltcG9ydGFudDsKICAgICAganVzdGlmeS1jb250ZW50OiBmbGV4LWVuZCAhaW1wb3J0YW50OwogIG1hcmdpbjogMCAhaW1wb3J0YW50OwogIGN1cnNvcjogcG9pbnRlciAhaW1wb3J0YW50OwogIC1tcy1mbGV4LWFsaWduOiBiYXNlbGluZSAhaW1wb3J0YW50OwogICAgICBhbGlnbi1pdGVtczogYmFzZWxpbmUgIWltcG9ydGFudDsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIC5jZi1icmFuZGluZzpob3ZlciB7CiAgY29sb3I6ICMxMTEgIWltcG9ydGFudDsKICB0ZXh0LWRlY29yYXRpb246IG5vbmUgIWltcG9ydGFudDsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIC5jZi1icmFuZGluZzo6YmVmb3JlIHsKICBjb250ZW50OiAiUG93ZXJlZCBieSI7CiAgbWFyZ2luLXJpZ2h0OiAuNWVtOwogIGZvbnQtd2VpZ2h0OiAzMDA7CiAgZm9udC1mYW1pbHk6ICJPcGVuIFNhbnMiLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gLmNmLWJyYW5kaW5nID4gc3ZnIHsKICBoZWlnaHQ6IC43ZW07CiAgd2lkdGg6IGF1dG87Cn0KCkBtZWRpYSAobWF4LXdpZHRoOiA3NjhweCkgewogIGNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSB7CiAgICBib3R0b206IDA7CiAgICBsZWZ0OiAwOwogICAgcmlnaHQ6IDA7CiAgfQoKICBjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQgewogICAgYm9yZGVyLXRvcDogMXB4IHNvbGlkICNkY2RjZGM7CiAgfQoKICBjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gLmNmLWJyYW5kaW5nIHsKICAgIC1tcy1mbGV4LXBhY2s6IGNlbnRlciAhaW1wb3J0YW50OwogICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyICFpbXBvcnRhbnQ7CiAgfQp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQgewogIGRpc3BsYXk6IGJsb2NrOwogIGJhY2tncm91bmQ6ICNmZmY7CiAgY29sb3I6ICMzMzM7CiAgbGluZS1oZWlnaHQ6IDEuNjU7CiAgbWF4LXdpZHRoOiAxMDAlOwogIHBvc2l0aW9uOiByZWxhdGl2ZTsKfQoKQG1lZGlhIChtaW4td2lkdGg6IDc2OHB4KSB7CiAgY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIGNmLWRpYWxvZyB7CiAgICBwYWRkaW5nOiAxZW07CiAgfQoKICBjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQgewogICAgYm9yZGVyLXJhZGl1czogMnB4OwogICAgYm94LXNoYWRvdzogMCAwIDAgMXB4IHJnYmEoMCwgMCwgMCwgLjEpLCAwIDVweCAyMHB4IHJnYmEoMCwgMCwgMCwgLjEpOwogICAgd2lkdGg6IDMyZW07CiAgfQoKICBjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il1bZGF0YS1wb3NpdGlvbn49InRvcCJdIHsKICAgIHRvcDogMDsKICB9CgogIGNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXVtkYXRhLXBvc2l0aW9ufj0iYm90dG9tIl0gewogICAgYm90dG9tOiAwOwogIH0KCiAgY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdW2RhdGEtcG9zaXRpb25+PSJsZWZ0Il0gewogICAgbGVmdDogMDsKICB9CgogIGNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXVtkYXRhLXBvc2l0aW9ufj0icmlnaHQiXSB7CiAgICByaWdodDogMDsKICB9Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBjZi1kaWFsb2ctY29udGVudCwKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIGNmLWRpYWxvZy1jb250ZW50ICogewogIGZvbnQtZmFtaWx5OiBpbmhlcml0Owp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQtdGV4dCwKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIGlucHV0W3R5cGU9ImVtYWlsIl0gewogIGNvbG9yOiBpbmhlcml0Owp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQtdGV4dCB7CiAgZGlzcGxheTogYmxvY2s7CiAgcGFkZGluZzogMWVtOwogIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2Ytc2lnbnVwLXRleHQgewogIGRpc3BsYXk6IGJsb2NrOwogIG9wYWNpdHk6IC44OwogIGxpbmUtaGVpZ2h0OiAxLjU7Cn0KCkBtZWRpYSAobWF4LXdpZHRoOiA0ODBweCkgewogIGNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBjZi1kaWFsb2ctY29udGVudC10ZXh0IHsKICAgIHBhZGRpbmc6IDFlbTsKICB9Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBjZi1kaWFsb2ctY29udGVudC10ZXh0ID4gKiB7CiAgdGV4dC1pbmRlbnQ6IDA7CiAgbWFyZ2luOiAxZW0gMDsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIGNmLWRpYWxvZy1jb250ZW50LXRleHQgYSB7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGZvbnQtd2VpZ2h0OiBib2xkOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQtdGV4dCA+ICo6Zmlyc3QtY2hpbGQgewogIG1hcmdpbi10b3A6IDA7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBjZi1kaWFsb2ctY29udGVudC10ZXh0ID4gKjpsYXN0LWNoaWxkIHsKICBtYXJnaW4tYm90dG9tOiAwOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNvbnRlbnQtdGl0bGUgewogIGRpc3BsYXk6IGJsb2NrOwogIGZvbnQtc2l6ZTogMS41ZW07CiAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgbGluZS1oZWlnaHQ6IDEuMzsKICBtYXJnaW46IDA7CiAgcGFkZGluZy1yaWdodDogMmVtOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gY2YtZGlhbG9nLWNsb3NlLWJ1dHRvbiB7CiAgLXdlYmtpdC1mb250LXNtb290aGluZzogYW50aWFsaWFzZWQ7CiAgZGlzcGxheTogYmxvY2s7CiAgcG9zaXRpb246IGFic29sdXRlOwogIGZvbnQtc2l6ZTogMS4yNWVtOwogIGhlaWdodDogMmVtOwogIGxpbmUtaGVpZ2h0OiAyOwogIHJpZ2h0OiAuNGVtOwogIHRvcDogLjRlbTsKICB3aWR0aDogMmVtOwogIGZvbnQtZmFtaWx5OiBBcmlhbCwgc2Fucy1zZXJpZjsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgY3Vyc29yOiBwb2ludGVyOwogIHotaW5kZXg6IDIwMDA3OwogIGJvcmRlci1yYWRpdXM6IDNweDsKICBjb2xvcjogcmdiYSgwLCAwLCAwLCAuOCk7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBjZi1kaWFsb2ctY2xvc2UtYnV0dG9uOmhvdmVyIHsKICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIC4xKTsKICBjb2xvcjogIzAwMDsKfQoKY2xvdWRmbGFyZS1hcHBbYXBwPSJsZWFkLWJveCJdIGNmLWRpYWxvZy1jbG9zZS1idXR0b246OmFmdGVyIHsKICBjb250ZW50OiAiXDI3MTUiOwogIGRpc3BsYXk6IGJsb2NrOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gaW5wdXRbdHlwZT0ic3VibWl0Il0gewogIGJvcmRlci1yYWRpdXM6IDAuMTg3NWVtOwogIGJvcmRlcjogMXB4IHNvbGlkIHRyYW5zcGFyZW50OwogIGJveC1zaGFkb3c6IG5vbmU7CiAgY29sb3I6ICNmZmY7CiAgY3Vyc29yOiBwb2ludGVyOwogIGZvbnQ6IGluaGVyaXQ7CiAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgLW1zLWZsZXg6IDAgMCBhdXRvOwogICAgICBmbGV4OiAwIDAgYXV0bzsKICBtYXJnaW4tbGVmdDogMWVtOwogIG1heC13aWR0aDogMTZlbTsKICBvdmVyZmxvdzogaGlkZGVuOwogIHBhZGRpbmc6IC42ZW0gMWVtOwogIGhlaWdodDogMi44ZW07CiAgbGluZS1oZWlnaHQ6IDE7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIHRleHQtb3ZlcmZsb3c6IGVsbGlwc2lzOwogIHdoaXRlLXNwYWNlOiBub3dyYXA7CiAgd2lkdGg6IGF1dG87Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBpbnB1dFt0eXBlPSJzdWJtaXQiXTpkaXNhYmxlZCB7CiAgb3BhY2l0eTogMC43OwogIGN1cnNvcjogbm90LWFsbG93ZWQ7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBpbnB1dFt0eXBlPSJlbWFpbCJdIHsKICAtd2Via2l0LWFwcGVhcmFuY2U6IG5vbmU7CiAgLW1vei1hcHBlYXJhbmNlOiBub25lOwogICAgICAgYXBwZWFyYW5jZTogbm9uZTsKICBmb250OiBpbmhlcml0OwogIHdpZHRoOiAxMDAlOwogIC13ZWJraXQtdGFwLWhpZ2hsaWdodC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgdGV4dC1yZW5kZXJpbmc6IG9wdGltaXplTGVnaWJpbGl0eTsKICBiYWNrZ3JvdW5kOiAjZmZmOwogIGNvbG9yOiBpbmhlcml0OwogIGJvcmRlcjogMXB4IHNvbGlkIHJnYmEoMCwgMCwgMCwgLjE4KTsKICBib3JkZXItdG9wLWNvbG9yOiByZ2JhKDAsIDAsIDAsIC4yNCk7CiAgcGFkZGluZzogLjZlbSAxZW07CiAgaGVpZ2h0OiAyLjhlbTsKICBsaW5lLWhlaWdodDogMTsKICBib3gtc2hhZG93OiBub25lOwogIGJvcmRlci1yYWRpdXM6IC4xODc1ZW07Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBpbnB1dFt0eXBlPSJlbWFpbCJdOm5vdCg6Zm9jdXMpIHsKICBiYWNrZ3JvdW5kOiByZ2JhKDAsIDAsIDAsIC4wMik7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBpbnB1dFt0eXBlPSJlbWFpbCJdOnBsYWNlaG9sZGVyIHsKICBjb2xvcjogcmdiYSgwLCAwLCAwLCAuNSk7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXS5jZi1pbnZhbGlkIGlucHV0W3R5cGU9J2VtYWlsJ10sCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXS5jZi1pbnZhbGlkIGlucHV0W3R5cGU9J2VtYWlsJ106aG92ZXIgewogIGNvbG9yOiAjZjE2OTc1OwogIGJhY2tncm91bmQ6ICNmZmY2Zjc7CiAgYm9yZGVyLWNvbG9yOiBjdXJyZW50Q29sb3I7CiAgdGV4dC1hbGlnbjogY2VudGVyOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0uY2YtaW52YWxpZCBpbnB1dFt0eXBlPSdlbWFpbCddOmRpc2FibGVkOjotd2Via2l0LWlucHV0LXBsYWNlaG9sZGVyIHsKICBjb2xvcjogI2I3MTkyNzsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXS5jZi1pbnZhbGlkIGlucHV0W3R5cGU9J2VtYWlsJ106ZGlzYWJsZWQ6LW1zLWlucHV0LXBsYWNlaG9sZGVyIHsKICBjb2xvcjogI2I3MTkyNzsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXS5jZi1pbnZhbGlkIGlucHV0W3R5cGU9J2VtYWlsJ106ZGlzYWJsZWQ6OnBsYWNlaG9sZGVyIHsKICBjb2xvcjogI2I3MTkyNzsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCmNsb3VkZmxhcmUtYXBwW2FwcD0ibGVhZC1ib3giXSBpbnB1dFt0eXBlPSJlbWFpbCJdOmZvY3VzIHsKICBvdXRsaW5lOiBub25lOwp9CgpjbG91ZGZsYXJlLWFwcFthcHA9ImxlYWQtYm94Il0gZm9ybSB7CiAgd2lkdGg6IDEwMCU7CiAgbWFyZ2luOiAuNWVtIDA7CiAgLW1zLWZsZXgtYWxpZ246IGNlbnRlcjsKICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICBkaXNwbGF5OiAtbXMtZmxleGJveDsKICBkaXNwbGF5OiBmbGV4OwogIC1tcy1mbGV4LXBhY2s6IGp1c3RpZnk7CiAgICAgIGp1c3RpZnktY29udGVudDogc3BhY2UtYmV0d2VlbjsKfQo="><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/jquery_002.js"></script><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/jquery.js"></script><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/jquery_003.js"></script><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/2030826647"></script><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/2030976589"></script><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/3120766840"></script><meta name="viewport" content="width=device-width, initial-scale=1"><script charset="utf-8" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/button.js"></script><style type="text/css">.mceToolbar {display: none}</style><link rel="preload" href="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/integrator.js" as="script"><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/integrator.js"></script><link rel="preload" href="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/integrator_002.js" as="script"><script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/integrator_002.js"></script><script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/pubads_impl_2019070801.js" async=""></script><style></style><style type="text/css">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#1d3c78;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_button{text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style></head>
+<body><div class="cc-grower" style="max-height: 72px;"><div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cc-window cc-banner cc-type-info cc-theme-block cc-static cc-top cc-color-override-1939428960 " style=""><!--googleoff: all--><span id="cookieconsent:desc" class="cc-message">We
+ use cookies to ensure that we give you the best possible experience. By
+ continuing to browse the site you are agreeing to our use of cookies. <a aria-label="learn more about cookies" role="button" tabindex="0" class="cc-link" href="https://www.datasciencecentral.com/page/cookie-policy" rel="noopener noreferrer nofollow" target="_blank">Learn more</a></span><div class="cc-compliance"><a aria-label="dismiss cookie message" role="button" tabindex="0" class="cc-btn cc-dismiss">OK, Got it!</a></div><!--googleon: all--></div></div>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T5W4WQ"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+<div class="xj_before_content"><div id="fb-root" class=" fb_reset"><script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/sdk.js" async=""></script><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div><iframe name="fb_xdm_frame_https" id="fb_xdm_frame_https" aria-hidden="true" title="Facebook Cross Domain Communication Frame" tabindex="-1" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none;" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/xd_arbiter.html" frameborder="0"></iframe></div><div><iframe name="f1ed1d13394348" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="display: none;" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/ping.html" frameborder="0"></iframe></div></div></div>
+<script>
+  window.fbAsyncInit = function () {
+    FB.init({
+      appId      : '259683271111061', 
+      status     : true,   
+      cookie     : true,   
+      xfbml      : true, 
+      version    : 'v2.3'  
+    });
+    var n = xg.addOnFacebookLoad.functions.length;
+    for (var i = 0; i < n; i++) {
+      xg.addOnFacebookLoad.functions[i]();
+    }
+    xg.addOnFacebookLoad = function (f) { f(); };
+    xg.addOnFacebookLoad.functions = [];
+  };
+  (function() {
+    var e = document.createElement('script');
+    e.src = document.location.protocol + '//connect.facebook.net/en_US/sdk.js';
+    e.async = true;
+    document.getElementById('fb-root').appendChild(e);
+  })();
+</script> <div id="xn_bar">
+<div id="xn_bar_menu">
+<div id="xn_bar_menu_branding">
+</div>
+<div id="xn_bar_menu_more">
+<form id="xn_bar_menu_search" method="GET" action="https://www.datasciencecentral.com/page/search">
+<fieldset>
+<input type="text" name="q" id="xn_bar_menu_search_query" value="Search Data Science Central" _hint="Search Data Science Central" accesskey="4" class="text xj_search_hint">
+<a id="xn_bar_menu_search_submit" href="#" onclick="document.getElementById('xn_bar_menu_search').submit();return false">Search</a>
+</fieldset>
+</form>
+</div>
+<ul id="xn_bar_menu_tabs">
+<li><a href="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity">Sign Up</a></li>
+<li><a href="https://www.datasciencecentral.com/main/authorization/signIn?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity">Sign In</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="xg_theme" data-layout-pack="brutus">
+<div id="xg_themebody">
+<div id="xg_ad_above_header" class="xg_ad xj_ad_above_header dy-displaynone">
+</div>
+<div id="xg_head">
+<div id="xg_masthead">
+<h1 id="xg_sitename" class="xj_site_name"><a id="application_name_header_link" href="https://www.datasciencecentral.com/"><img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/dsc_logo_rm4.png" alt="Data Science Central"></a></h1>
+<p id="xg_sitedesc" class="xj_site_desc"></p>
+</div>
+<div id="xg_navigation" class="xj_navigation"><ul>
+<li dojotype="SubTabHover" id="xg_tab_xn54" class="xg_subtab"><a href="https://www.datasciencecentral.com/"><span>Home</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="https://www.datasciencecentral.com/page/most-popular-content-on-dsc" style="float:none;"><span>Top Content</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="https://www.datasciencecentral.com/page/editorial-guidelines" style="float:none;"><span>Editorial Guidelines</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="https://www.datasciencecentral.com/page/user-agreement" style="float:none;"><span>User Agreement</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="https://www.datasciencecentral.com/page/cookie-policy" style="float:none;"><span>Cookie Policy</span></a></li></ul></div></li><li id="xg_tab_xn22" class="xg_subtab"><a href="https://www.datasciencecentral.com/page/search?q=AI"><span>AI</span></a></li><li id="xg_tab_xn52" class="xg_subtab"><a href="https://www.datasciencecentral.com/page/search?q=Machine+Learning"><span>ML</span></a></li><li id="xg_tab_xn31" class="xg_subtab"><a href="https://www.datasciencecentral.com/page/search?q=Deep+Learning"><span>DL</span></a></li><li id="xg_tab_profile" class="xg_subtab"><a href="https://www.analyticbridge.datasciencecentral.com/" target="_blank"><span>Analytics</span></a></li><li id="xg_tab_xn50" class="xg_subtab"><a href="https://www.statisticshowto.datasciencecentral.com/" target="_blank"><span>Statistics</span></a></li><li id="xg_tab_xn40" class="xg_subtab"><a href="https://www.bigdatanews.datasciencecentral.com/" target="_blank"><span>Big Data</span></a></li><li id="xg_tab_xn32" class="xg_subtab"><a href="https://www.datavizualization.datasciencecentral.com/" target="_blank"><span>DataViz</span></a></li><li id="xg_tab_xn26" class="xg_subtab"><a href="https://www.hadoop360.datasciencecentral.com/" target="_blank"><span>Hadoop</span></a></li><li id="xg_tab_xn53" class="xg_subtab"><a href="https://www.datasciencecentral.com/video/video/listTagged?tag=DSC+Podcast+Series"><span>Podcasts</span></a></li><li id="xg_tab_xn28" class="xg_subtab"><a href="https://www.datasciencecentral.com/video/video/listFeatured"><span>Webinars</span></a></li><li id="xg_tab_xn49" class="xg_subtab"><a href="https://www.datasciencecentral.com/forum"><span>Forums</span></a></li><li id="xg_tab_xn3" class="xg_subtab"><a href="https://www.analytictalent.datasciencecentral.com/" target="_blank"><span>Jobs</span></a></li><li dojotype="SubTabHover" id="xg_tab_xn25" class="xg_subtab"><a href="https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter"><span>Membership</span></a><div class="xg_subtab" style="display:none;position:absolute;"><ul class="xg_subtab" style="display:block;"><li style="list-style:none !important;display:block;text-align:left;"><a href="https://www.datasciencecentral.com/page/most-popular-content-on-dsc" style="float:none;"><span>Top Content</span></a></li><li style="list-style:none !important;display:block;text-align:left;"><a href="https://www.datasciencecentral.com/group/resources/forum/topics/selection-of-best-articles-from-our-past-weekly-digests" style="float:none;"><span>Archives</span></a></li></ul></div></li><li id="xg_tab_xn51" class="xg_subtab"><a href="https://www.datasciencecentral.com/groups/group/list"><span>Groups</span></a></li><li id="xg_tab_xn35" class="xg_subtab"><a href="https://www.datasciencecentral.com/page/search"><span>Search</span></a></li><li id="xg_tab_xn18" class="xg_subtab"><a href="https://www.datasciencecentral.com/page/contact-us"><span>Contact</span></a></li></ul>
+</div>
+</div>
+<div id="xg_ad_below_header" class="xg_ad xj_ad_below_header">
+<div class="xg_module module-plain  html_module module_text xg_reset" data-module_name="text">
+<div class="xg_module_body xg_user_generated">
+<center><script async="async" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/gpt.js" type="text/javascript">
+</script> <script type="text/javascript">
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script> <script type="text/javascript">
+  googletag.cmd.push(function() {   
+googletag.defineSlot('/2672641/Bottom_Leaderboard', [728, 90], 'div-gpt-ad-1512428902846-0').addService(googletag.pubads());
+    googletag.defineSlot('/2672641/Box_Ad_Blog', [300, 250], 'div-gpt-ad-1512428902846-2').addService(googletag.pubads());
+    googletag.defineSlot('/2672641/Box_Ad_Forum', [300, 250], 'div-gpt-ad-1512428902846-3').addService(googletag.pubads());
+    googletag.defineSlot('/2672641/Skyscraper', [160, 600], 'div-gpt-ad-1512428902846-6').addService(googletag.pubads());
+    googletag.defineSlot('/2672641/Square_Box', [220, 220], 'div-gpt-ad-1512428902846-7').addService(googletag.pubads());
+    googletag.defineSlot('/2672641/Top_Leaderboard', [728, 90], 'div-gpt-ad-1512428902846-8').addService(googletag.pubads());
+    googletag.enableServices();
+  });
+</script> 
+<div id="div-gpt-ad-1512428902846-8" style="height:90px; width:728px;" data-google-query-id="CN-Im9iMp-MCFRPwjwod-pcMFg"><div id="google_ads_iframe_/2672641/Top_Leaderboard_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/2672641/Top_Leaderboard_0" title="3rd party ad content" name="google_ads_iframe_/2672641/Top_Leaderboard_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="1" data-load-complete="true" width="728" height="90" frameborder="0"></iframe></div></div>
+<br></center>
+<center><a href="https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter">Subscribe to DSC Newsletter</a></center>
+</div>
+</div>
+</div>
+<div id="xg" class="xg_widget_profiles xg_widget_profiles_blog xg_widget_profiles_blog_show">
+<div id="xg_body">
+<div class="xj_notifications"></div>
+<div class="xg_column xg_span-16" id="column1">
+<div id="xg_canvas" class="xj_canvas">
+<ul class="navigation easyclear"><li><a href="https://www.datasciencecentral.com/profiles/blog/list">All Blog Posts</a></li><li><a href="https://www.datasciencecentral.com/profiles/blog/list?my=1">My Blog</a></li><li class="right  xg_lightborder navbutton"><a href="https://www.datasciencecentral.com/profiles/blog/new" class="xg_sprite xg_sprite-add">Add</a></li></ul>
+<div class="xg_module xg_blog xg_blog_detail xg_blog_mypage xg_module_with_dialog">
+<div class="xg_headline xg_headline-img xg_headline-2l">
+<div class="ib"><span class="xg_avatar"><a class="fn url" href="https://www.datasciencecentral.com/profile/VincentGranville" title="Vincent Granville"><span class="table_img dy-avatar dy-avatar-64 "><img class="photo photo" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/2800211702.png" alt=""></span></a></span></div>
+<div class="tb"><h1>Answers to dozens of data science job interview questions</h1>
+<ul class="navigation byline">
+<li><a class="nolink">Posted by </a><a href="https://www.datasciencecentral.com/profile/VincentGranville">Vincent Granville</a><a class="nolink"> on April 19, 2016 at 9:12am</a></li>
+<li><a class="xg_sprite xg_sprite-view" href="https://www.datasciencecentral.com/profiles/blog/list?user=3v6n5b6g08kgn">View Blog</a></li>
+</ul>
+</div>
+</div>
+<div class="xg_module_body">
+<div class="postbody">
+<div class="xg_user_generated">
+<p>We just started in this article to provide answers to one of the 
+largest collection of data science job interview questions ever 
+published, and we will continue to add answers to most of these 
+questions. Some answers link to solutions offered in my Wiley data 
+science book: <a href="https://www.datasciencecentral.com/profiles/blogs/my-data-science-book" target="_blank">you can find this book here</a>. The 91 job interview questions were originally published <a href="https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists" target="_blank">here</a>&nbsp;with no answers, and we recently added 50 questions to identify a true data scientist,&nbsp;<a href="https://www.datasciencecentral.com/profiles/blogs/25-questions-to-detect-fake-data-scientists" target="_blank">in this article</a>. Over time, we will add more questions and more answers. So, bookmark this page!</p>
+<p>Other lists of Q&amp;A for data science job interviews (including about R) can be found <a href="https://www.datasciencecentral.com/page/search?q=job+interview+questions" target="_blank">here</a>.&nbsp;</p>
+<p><a href="http://storage.ning.com/topology/rest/1.0/file/get/1328085?profile=original" target="_self"><img src="http://storage.ning.com/topology/rest/1.0/file/get/1328085?profile=original" class="align-center" width="307"></a></p>
+<p class="H2"><strong><span class="font-size-4">Technical Questions</span></strong></p>
+<ol>
+<li>What are lift, KPI, robustness, model fitting, design of experiments, and the 80/20 rule?&nbsp;<b>Answer</b>: <i>KPI</i> stands for Key Performance Indicator, or metric, sometimes called feature. A <i>robust</i> model is one that is not sensitive to changes in the data. <i>Design of experiments</i> or <i>experimental design</i>
+ is the initial process used (before data is collected) to split your 
+data, sample and set up a data set for statistical analysis, for 
+instance in A/B testing frameworks or clinical trials. The 80/20 rules 
+means that 80 percent of your income (or results) comes from 20 percent 
+of your clients (or efforts).</li>
+<li>What are collaborative filtering, n-grams, Map Reduce, and cosine distance?&nbsp;<b>Answers</b>: <i>Collaborative filtering</i>/<i>recommendation engines</i> are a set of techniques where recommendations are based on what your friends like, used in social context networks. <i>N-grams</i>
+ are token permutations associated with a keyword, for instance “car 
+insurance California,” “California car insurance,” “insurance California
+ car,” and so on. <i>Map Reduce</i> is a framework to process large data
+ sets, splitting them into subsets, processing each subset on a 
+different server, and then blending results obtained on each. <i>Cosine distance</i>
+ measures how close two sentences are to each other, by counting the 
+number of terms that their share. It does not take into account 
+synonyms, so it is not a precise metric in NLP (natural language 
+processing) contexts. All of these problems are typically solved with 
+Hadoop/Map-Reduce, and the reader should check the index to find and 
+read our various&nbsp; discussions on Hadoop and Map-Reduce in this 
+book.</li>
+<li>What is probabilistic merging (aka fuzzy merging)? Is it easier to 
+handle with SQL or other languages? Which languages would you choose for
+ semi-structured text data reconciliation?&nbsp;<b>Answers</b>: You do a
+ join on two tables A and B, but the keys (for joining) are not 
+compatible. For instance, on A the key is first name/lastname in some 
+char set; in B another char set is used. Data is sometimes missing in A 
+or B. Usually, scripting languages (Python and Perl) are better than SQL
+ to handle this.</li>
+<li>Toad or Brio or any other similar clients are quite inefficient to 
+query Oracle databases. Why? What would you do to increase speed by a 
+factor 10 and be able to handle far bigger outputs?</li>
+<li>What are hash table collisions? How are they avoided? How frequently do they happen?</li>
+<li>How can you make sure a Map Reduce application has good load balance? What is load balance?</li>
+<li>Is it better to have 100 small hash tables or one big hash table in 
+memory, in terms of access speed (assuming both fit within RAM)? What do
+ you think about in-database analytics?</li>
+<li>Why is Naive Bayes so bad? How would you improve a spam detection algorithm that uses Naïve Bayes?&nbsp;<b>Answer</b>:
+ It assumes features are not correlated and thus penalize heavily 
+observations that trigger many features in the context of fraud 
+detection. Solution: use a solution such as hidden decision trees 
+(described in this book) or decorrelate your features.</li>
+<li>What is star schema? What are lookup tables?&nbsp;<b>Answer</b>: The
+ star schema is a traditional database schema with a central (fact) 
+table (the “observations”, with database “keys” for joining with 
+satellite tables, and with several fields encoded as ID’s). Satellite 
+tables map ID’s to physical name or description and can be be “joined” 
+to the central, fact table using the ID fields; these tables are known 
+as lookup tables, and are particularly useful in real-time applications,
+ as they save a lot of memory. Sometimes star schemas involve multiple 
+layers of summarization (summary tables, from granular to less granular)
+ to retrieve information faster.</li>
+<li>Can you perform logistic regression with Excel and if so, how, and would the result be good? Answers: Yes; by using <i>linest</i> on log-transformed data.</li>
+<li>Define quality assurance, six sigma, and design of experiments. Give examples of good and bad designs of experiments.</li>
+<li>What are the drawbacks of general linear model? Are you familiar with alternatives (Lasso, ridge regression, and boosted trees)?</li>
+<li>Do you think 50 small decision trees are better than 1 large one? Why?&nbsp;<b>Answer</b>: Yes, 50 create a more robust model (less subject to over-fitting) and easier to interpret.</li>
+<li>Give examples of data that does not have a Gaussian distribution or 
+log-normal. Give examples of data that has a chaotic distribution.&nbsp;<b>Answer</b>: Salary distribution is a typical examples. <i>Multimodal</i> data (modeled by a <i>mixture distribution</i>) is another example.</li>
+<li>Why is mean square error a bad measure of model performance? What would you suggest instead?&nbsp;<b>Answer</b>: It puts too much emphasis on large deviations. Instead, use the new correlation coefficient described in <span style="color: #000000;">chapter 4.</span></li>
+<li>What is a cron job?&nbsp;<b>Answer</b>: A scheduled task that runs in the background on a server.</li>
+<li>What is an efficiency curve? What are its drawbacks, and how can they be overcome?</li>
+<li>What is a recommendation engine? How does it work?</li>
+<li>What is an exact test? How and when can simulations help when you do not use an exact test?</li>
+<li>What is the computational complexity of a good, fast clustering 
+algorithm? What is a good clustering algorithm? How do you determine the
+ number of clusters? How would you perform clustering on 1 million 
+unique keywords, assuming you have 10 million data points—each one 
+consisting of two keywords, and a metric measuring how similar these two
+ keywords are? How would you create this 10 million data points 
+table?&nbsp;<b>Answer:</b> Found in Chapter 2, <span style="color: #000000;">“Why Big Data Is Different.”</span></li>
+<li>Should removing stop words be Step 1 rather than Step 3, in the 
+search engine algorithm described in the section “Big Data Problem That 
+Epitomizes the Challenges of Data Science?”&nbsp;<b>Answer</b>: Have you thought about the fact that <i>mine</i> and <i>yours</i> could also be stop words? So in a bad implementation, <i>data mining</i> would become <i>data mine</i> after stemming and then <i>data</i>. In practice, you remove stop words before stemming. So Step 3 should indeed become step 1.</li>
+</ol>
+<p class="H2"><strong><span class="font-size-4">General Questions</span></strong></p>
+<ol>
+<li>Should click data be handled in real time? Why? In which contexts?&nbsp;<b>Answer</b>:
+ In many cases, real-time data processing is not necessary and even 
+undesirable as end-of-day algorithms are usually much more powerful. 
+However, real-time processing is critical for fraud detection, as it can
+ deplete advertiser daily budgets in a few minutes.</li>
+<li>What is better: good data or good models? And how do you define 
+good? Is there a universal good model? Are there any models that are 
+definitely not so good?&nbsp;<b>Answer</b>: There is no universal model 
+that is perfect in all situations. Generally speaking, good data is 
+better than good models, as model performance can easily been increased 
+by model testing and cross-validation. Models that are “too good to be 
+true” usually are - they might perform very well on test data (data used
+ to build the model) because of over-fitting, and very badly outside the
+ test data.</li>
+<li>How do you handle missing data? What <i>imputation</i> techniques do you recommend?</li>
+<li>Compare SAS, R, Python, and Perl.&nbsp;<b>Answer</b>: Python is the 
+new scripting language on the block with many libraries constantly added
+ (Pandas for data science), Perl is the old one (still great and the 
+best - very flexible - if you don’t work in a team and don’t have to 
+share your code). R has great visualization capabilities; also R 
+libraries are available to handle data that is too big to fit in memory.
+ SAS is used in a lot of traditional statistical applications; it has a 
+lot of built-in functions, and can handle large data sets pretty past; 
+the most recent versions of SAS have neat programming features and 
+structures such as fast sort and hash tables. Sometimes you must use SAS
+ because that’s what your client is using.</li>
+<li>What is the curse of big data? (See section “The curse of big data” in chapter 2).</li>
+<li>What are examples in which Map Reduce does not work? What are 
+examples in which it works well? What is the security issues involved 
+with the cloud? What do you think of EMC's solution offering a hybrid 
+approach—to both an internal and external cloud—to mitigate the risks 
+and offer other advantages (which ones)? The reader will find more 
+information about key players in this market, in the section “The Big 
+Data Ecosystem” in chapter 2, and especially in the online references 
+(links) provided in this section.</li>
+<li>What is sensitivity analysis? Is it better to have low sensitivity 
+(that is, great robustness) and low predictive power, or vice versa? How
+ to perform good cross-validation? What do you think about the idea of 
+injecting noise in your data set to test the sensitivity of your models?</li>
+<li>Compare logistic regression with decision trees and neural networks.
+ How have these technologies been vastly improved over the last 15 
+years?</li>
+<li>Is actuarial science a branch of statistics (survival analysis)? If 
+not, how so?&nbsp; You can find more information about actuarial 
+sciences at <a href="https://en.wikipedia.org/wiki/Actuarial_science">http://en.wikipedia.org/wiki/Actuarial_science</a> and also at <a href="http://www.dwsimpson.com/">http://www.dwsimpson.com/</a> (job ads, salary surveys).</li>
+<li>What is root cause analysis? How can you identify a cause versus a correlation? Give examples..<b>Answer:</b> in Chapter 5, “Data Science craftsmanship: Part II.”</li>
+<li>How would you define and measure the predictive power of a metric?&nbsp;<b>Answer:</b> in Chapter 6.</li>
+<li>Is it better to have too many false positives, or too many false negatives?</li>
+<li>Have you ever thought about creating a start-up? Around which idea / concept?</li>
+<li>Do you think that a typed login/password will disappear? How could they be replaced?</li>
+<li>What do you think makes a good data scientist?</li>
+<li>Do you think data science is an art or a science?</li>
+<li>Give a few examples of best practices in data science.</li>
+<li>What could make a chart misleading, or difficult to read or interpret? What features should a useful chart have?</li>
+<li>Do you know a few rules of thumb used in statistical or computer science? Or in business analytics?</li>
+<li>What are your top five predictions for the next 20 years?</li>
+<li>How do you immediately know when statistics published in an article 
+(for example, newspaper) are either wrong or presented to support the 
+author's point of view, rather than correct, comprehensive factual 
+information on a specific subject? For instance, what do you think about
+ the official monthly unemployment statistics regularly discussed in the
+ press? What could make them more accurate?</li>
+<li>In your opinion, what is data science? Machine learning? Data mining?</li>
+</ol>
+<p class="H2"><span class="font-size-4"><strong>Questions About Data Science Projects</strong></span></p>
+<ol>
+<li>How can you detect individual paid accounts shared by multiple 
+users? This is a big problem for publishers, digital newspapers, 
+software developers offering API access, the music / movie industry 
+(file sharing issues) and organizations offering monthly paid access 
+(flat fee not based on the numbers of accesses or downloads) to single 
+users, to view or download content, as it results in revenue losses.</li>
+<li>How can you optimize a web crawler to run much faster, extract 
+better information, and better summarize data to produce cleaner 
+databases?&nbsp;<b>Answer</b>: Putting a time-out threshold to less than
+ 2 seconds, extracting no more than the first 20 KB of each pages, and 
+not revisiting pages already crawled (that is, avoid recurrence in your 
+algorithm) are good starting points.</li>
+<li>How would you come up with a solution to identify plagiarism?</li>
+<li>You are about to send 1 million e-mails (marketing campaign). How do
+ you optimize delivery? How do you optimize response? Can you optimize 
+both separately?&nbsp;<b>Answer</b>: Not really.</li>
+<li>How would you turn unstructured data into structured data? Is it 
+really necessary? Is it OK to store data as flat text files rather than 
+in a SQL-powered RDBMS?</li>
+<li>How would you build nonparametric confidence intervals, for scores?</li>
+<li>How can you detect the best rule set for a fraud detection scoring 
+technology? How can you deal with rule redundancy, rule discovery, and 
+the combinatorial nature of the problem (for finding optimum rule 
+set—the one with best predictive power)? Can an approximate solution to 
+the rule set problem be OK? How would you find an OK approximate 
+solution? How would you decide it is good enough and stop looking for a 
+better one?</li>
+<li>How can you create keyword taxonomies?</li>
+<li>What is a botnet? How can it be detected?</li>
+<li>How does Zillow's algorithm work to estimate the value of any home in the United States?</li>
+<li>How can you detect bogus reviews or bogus Facebook accounts used for bad purposes?</li>
+<li>How would you create a new anonymous digital currency? Please focus 
+on the aspects of security - how do you protect this currency against 
+Internet pirates? Also, how do you make it easy for stores to accept it?
+ For instance, each transaction has a unique ID used only once and 
+expiring after a few days; and the space for unique ID’s is very large 
+to prevent hackers from creating valid ID’s just by chance.</li>
+<li>You design a robust nonparametric statistic (metric) to replace 
+correlation or R square that&nbsp; is independent of sample size, always
+ between –1 and +1 and based on rank statistics. How do you normalize 
+for sample size? Write an algorithm that computes all permutations of n 
+elements. How do you sample permutations (that is, generate tons of 
+random permutations) when n is large, to estimate the asymptotic 
+distribution for your newly created metric? You may use this asymptotic 
+distribution for normalizing your metric. Do you think that an exact 
+theoretical distribution might exist, and therefore, you should find it 
+and use it rather than wasting your time trying to estimate the 
+asymptotic distribution using simulations?</li>
+<li>Here’s a more difficult, technical question related to previous one.
+ There is an obvious one-to-one correspondence between permutations of n
+ elements and integers between 1 and factorial n. Design an algorithm 
+that encodes an integer less than factorial n as a permutation of n 
+elements. What would be the reverse algorithm used to decode a 
+permutation and transform it back into a number? <b>Hint</b>: An 
+intermediate step is to use the factorial number system representation 
+of an integer. You can check this reference online to answer the 
+question. Even better, browse the web to find the full answer to the 
+question. (This will test the candidate's ability to quickly search 
+online and find a solution to a problem without spending hours 
+reinventing the wheel.)&nbsp;</li>
+<li>How many “useful” votes will a Yelp review receive?&nbsp;<b>Answer</b>:
+ Eliminate bogus accounts or competitor reviews. (How to detect them: 
+Use taxonomy to classify users, and location. Two Italian restaurants in
+ same ZZIP code could badmouth each other and write great comments for 
+themselves.) Detect fake likes: Some companies (for example, 
+FanMeNow.com) will charge you to produce fake accounts and fake likes. 
+Eliminate prolific users who like everything; those who hate everything.
+ Have a blacklist of keywords to filter fake reviews. See if an IP 
+address or IP block of a reviewer is in a blacklist such as Stop Forum 
+Spam. Create a honeypot to catch fraudsters.&nbsp; Also watch out for 
+disgruntled employees badmouthing their former employer. Watch out for 
+two or three similar comments posted the same day by three users 
+regarding a company that receives few reviews. Is it a new company? Add 
+more weight to trusted users. (Create a category of trusted users.) Flag
+ all reviews that are identical (or nearly identical) and come from the 
+same IP address or the same user. Create a metric to measure the 
+distance between two pieces of text (reviews). Create a review or 
+reviewer taxonomy. Use hidden decision trees to rate or score review and
+ reviewers.</li>
+<li>Can you estimate and forecast sales for any book, based on Amazon.com public data? <b>Hint</b>: See <a href="http://www.fonerbooks.com/surfing.htm">http://www.fonerbooks.com/surfing.htm</a>.</li>
+<li>This is a question about experimental design (and a bit of computer 
+science) with Legos. Say you purchase two sets of Legos (one set to 
+build a car A and a second set to build another car B). Now assume that 
+the overlap between the two sets is substantial. There are three 
+different ways that you can build the two cars. The first step consists 
+in sorting the pieces (Legos) by color and maybe also by size. The three
+ ways to proceed are (1) Sequentially: Build one car at a time. This is 
+the traditional approach. (2) Semi-parallel system: Sort all the pieces 
+from both sets simultaneously so that the pieces will be blended. Some 
+in the red pile will belong to car A; some will belong to car B. Then 
+build the two cars sequentially, following the instructions in the 
+accompanying leaflets. (3) In parallel: Sort all the pieces from both 
+sets simultaneously, and build the two cars simultaneously, progressing 
+simultaneously with the two sets of instructions. Which is the most 
+efficient way to proceed?&nbsp;<b>Answer:</b> The least efficient is 
+sequential. Why? If you are a good at multitasking, the full parallel 
+approach is best. Why? Note that with the semi-parallel approach, the 
+first car that you build will take less time than the second car (due to
+ easier way to find the pieces that you need because of higher 
+redundancy) and less time than needed if you used the sequential 
+approach (for the same reason). To test these assumptions and help you 
+become familiar with the concept of distributed architecture, you can 
+have your kid build two Lego cars, A and B, in parallel and then two 
+other cars, C and D, sequentially. If the overlap between A and B (the 
+proportion of Lego pieces that are identical in both A and B) is small, 
+then the sequential approach will work best. Another concept that can be
+ introduced is that building an 80-piece car takes more than twice as 
+much time as building a 40-piece car. Why? (The same also applies to 
+puzzles).</li>
+<li>How can you design an algorithm to estimate the number of LinkedIn 
+connections your colleagues have? The number is readily available on 
+LinkedIn for your first-degree connections with up to 500 LinkedIn 
+connections. However, if the number is above 500, it just says 500+. The
+ number of shared connections between you and any of your LinkedIn 
+connections is always available.&nbsp;<b>Answer</b>: A detailed algorithm can be found in the book, in the section “job interview questions”.</li>
+<li>How would proceed to reverse engineer the popular BMP image format 
+and create your own images byte by byte, with a programming 
+language?&nbsp;<b>Answer</b>: The easiest BMP format is the 24-bit 
+format, where 1 pixel is stored on 3 bits, the RGB (red/green/blue) 
+components of the pixel, which determines its pixel. After producing a 
+few sample images, it becomes obvious that the format starts with a 
+52-bit header. Starts with a blank image. Modify the size. This will 
+help you identify where and how the size is encoded in the 52-bit 
+header. On a test image (for example, 40 * 60 pixels), change the color 
+of one pixel. See what happens to the file: Three bytes have a new 
+value, corresponding to the red, green, and blue components of the color
+ attached to your modified pixel. Now you can understand the format and 
+play with it any way you want with low-level access.</li>
+</ol>
+<p><span class="font-size-4">&nbsp;<b>DSC Resources</b></span></p>
+<ul>
+<li>Career:&nbsp;<a href="http://www.analyticbridge.com/group/analyticscourses/forum">Training</a>&nbsp;|&nbsp;<a href="http://www.analyticbridge.com/group/books/forum">Books</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet">Cheat Sheet</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/data-science-apprenticeship/forum/topics/our-data-science-apprenticeship-is-now-live">Apprenticeship</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/data-science-certification">Certification</a>&nbsp;|&nbsp;<a href="http://www.analyticbridge.com/group/salary-trends-and-reports/forum">Salary Surveys</a>&nbsp;|&nbsp;<a href="http://careers.analytictalent.com/jobs/search/results">Jobs</a></li>
+<li>Knowledge:&nbsp;<a href="https://www.datasciencecentral.com/group/resources/forum">Research</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/resources/forum/topics/best-kept-secret-about-data-science-competitions">Competitions</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/video/video/listFeatured">Webinars</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/profiles/blogs/my-data-science-book">Our Book</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/page/member">Members Only</a>&nbsp;|&nbsp;<a href="https://www.google.com/cse/publicurl?cx=007889287169707156432:04zouenp6u0">Search DSC</a></li>
+<li>Buzz:&nbsp;<a href="http://www.bigdatanews.com/group/bdn-daily-press-releases">Business News</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/announcements/forum">Announcements</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/events/">Events</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/page/news-feeds">RSS Feeds</a></li>
+<li>Misc:&nbsp;<a href="http://www.analyticbridge.com/page/links">Top Links</a>&nbsp;|&nbsp;<a href="http://www.analyticbridge.com/group/codesnippets">Code Snippets</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/resources/forum/topics/comprehensive-list-of-data-science-resources">External Resources</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/resources/forum/topics/the-best-of-our-weekly-digests">Best Blogs</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter">Subscribe</a>&nbsp;|&nbsp;<a href="https://www.datasciencecentral.com/group/resources/forum/topics/free-stuff-for-data-science-publishers-authors-bloggers-professor">For Bloggers</a></li>
+</ul>
+<p><b>Additional Reading</b></p>
+<ul>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/what-statisticians-think-about-data-scientists">What statisticians think about data scientists</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/17-analytic-disciplines-compared">Data Science Compared to 16 Analytic Disciplines</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/six-categories-of-data-scientists">10 types of data scientists</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/66-job-interview-questions-for-data-scientists">91 job interview questions for data scientists</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/25-questions-to-detect-fake-data-scientists">50 Questions to Test True Data Science Knowledge</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/top-20-uses-of-statistical-modeling">24 Uses of Statistical Modeling</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/20-data-science-systems-used-by-amazon-to-operate-its-business" target="_blank">21 data science systems used by Amazon to operate its business</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/top-20-big-data-experts-to-follow-1">Top 20 Big Data Experts to Follow (Includes Scoring Algorithm)</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/7-data-science-leaders-share-their-predictions-for-2016-and" target="_blank">5 Data Science Leaders Share their Predictions for 2016 and Beyond</a></li>
+<li><a href="http://www.hadoop360.com/blog/50-articles-about-hadoop-and-related-topics">50 Articles about Hadoop and Related Topics</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/10-modern-statistical-concepts-discovered-by-data-scientists">10 Modern Statistical Concepts Discovered by Data Scientists</a></li>
+<li><a href="https://www.datasciencecentral.com/forum/topics/most-popular-data-science-keywords-on-dsc">Top data science keywords on DSC</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/4-easy-steps-to-becoming-a-data-scientist">4 easy steps to becoming a data scientist</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/22-tips-for-better-data-science">22 tips for better data science</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/tutorial-how-to-detect-spurious-correlations-and-how-to-find-the-">How to detect spurious correlations, and how to find the real ones</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/17-short-tutorials-all-data-scientists-should-read-and-practice">17 short tutorials all data scientists should read (and practice)</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/high-level-versus-low-level-data-science">High versus low-level data science</a></li>
+</ul>
+<p><span>Follow us on Twitter:&nbsp;</span><a href="https://www.twitter.com/datasciencectrl">@DataScienceCtrl</a><span>&nbsp;|&nbsp;</span><a href="https://www.twitter.com/analyticbridge">@AnalyticBridge</a></p> </div>
+</div><div id="insideblog">
+<div class="dscAdAppear" zsrc="PGNlbnRlcj48YnIgLz48IS0tIC8yNjcyNjQxL0JveF9BZF9CbG9nIC0tPg0KPGRpdiBpZD0nZGl2LWdwdC1hZC0xNTEyNDI4OTAyODQ2LTInIHN0eWxlPSdoZWlnaHQ6MjUwcHg7IHdpZHRoOjMwMHB4Oyc+DQo8c2NyaXB0Pg0KZ29vZ2xldGFnLmNtZC5wdXNoKGZ1bmN0aW9uKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xNTEyNDI4OTAyODQ2LTInKTsgfSk7DQo8L3NjcmlwdD4NCjwvZGl2PjxiciAvPg0KPC9jZW50ZXI+"><center><br><!-- /2672641/Box_Ad_Blog -->
+<div id="div-gpt-ad-1512428902846-2" style="height:250px; width:300px;" data-google-query-id="CL3tuPmMp-MCFVOJjwodAQ4CIg">
+
+<div id="google_ads_iframe_/2672641/Box_Ad_Blog_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/2672641/Box_Ad_Blog_0" title="3rd party ad content" name="google_ads_iframe_/2672641/Box_Ad_Blog_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="5" data-load-complete="true" width="300" height="250" frameborder="0"></iframe></div></div><br>
+</center></div>
+<img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/2058338992.png" class="align-center" width="750">
+<p><span style="font-size: 11pt;"><strong>Most Popular Content on DSC</strong></span></p>
+<p><span style="font-size: 11pt;">To not miss this type of content in the future,&nbsp;<a href="https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter">subscribe</a>&nbsp;to our newsletter.</span></p>
+<ul>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/free-book-statistics-new-foundations-toolbox-and-machine-learning" target="_blank">Book: Statistics -- New Foundations, Toolbox, and Machine Learning Recipes</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/free-book-classification-and-regression-in-a-weekend" target="_blank">Book: Classification and Regression In a Weekend - With Python</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/fee-book-applied-stochastic-processes" target="_blank">Book: Applied Stochastic Processes</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/long-range-correlation-in-time-series-tutorial-and-case-study" target="_blank">Long-range Correlations in Time Series: Modeling, Testing, Case Study</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat" target="_blank">How to Automatically Determine the Number of Clusters in your Data</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet" target="_blank">New Machine Learning Cheat Sheet</a> | <a href="https://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet" target="_blank">Old one</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/confidence-intervals-without-pain" target="_blank">Confidence Intervals Without Pain - With Resampling</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/advanced-machine-learning-with-basic-excel" target="_blank">Advanced Machine Learning with Basic Excel</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/decomposition-of-statistical-distributions-using-mixture-models-a" target="_blank">New Perspectives on Statistical Distributions and Deep Learning</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/fascinating-new-results-in-the-theory-of-randomness" target="_blank">Fascinating New Results in the Theory of Randomness</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/feature-selection-based-on-predictive-power" target="_blank">Fast Combinatorial Feature Selection</a></span></li>
+</ul>
+<p><span style="font-size: 11pt;"><strong>Other popular resources</strong></span></p>
+<ul>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources" target="_blank">Comprehensive Repository of Data Science and ML Resources</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=statistical+concepts" target="_blank">Statistical Concepts Explained in Simple English</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=in+one+pictures" target="_blank">Machine Learning Concepts Explained in One Picture</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/100-data-science-interview-questions-and-answers" target="_blank">100 Data Science Interview Questions and Answers</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=cheat+sheets" target="_blank">Cheat Sheets</a> |
+<a href="https://www.datasciencecentral.com/profiles/blogs/21-curated-blogs-about-deep-learning-and-data-science" target="_blank">Curated Articles</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=Python" target="_blank">Search</a> |
+<a href="http://www.analytictalent.com/" target="_blank">Jobs</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=courses" target="_blank">Courses</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blog/new" target="_blank">Post a Blog</a> |
+<a href="https://www.datasciencecentral.com/forum/topic/new" target="_blank">Forum Questions</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=books" target="_blank">Books</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=salary" target="_blank">Salaries</a> |
+<a href="https://www.bigdatanews.datasciencecentral.com/group/bdn-daily-press-releases/forum" target="_blank">News</a>
+</span></li>
+</ul>
+<p><span style="font-size: 11pt;"><strong>Archives:</strong></span> <span style="font-size: 11pt;"><a href="https://www.analyticbridge.datasciencecentral.com/page/links" target="_blank">2008-2014</a> |
+<a href="https://www.datasciencecentral.com/group/resources/forum/topics/selection-of-best-articles-from-our-past-weekly-digests" target="_blank">2015-2016</a> |
+<a href="https://www.datasciencecentral.com/page/previous-digests" target="_blank">2017-2019</a> |
+<a href="https://www.analyticbridge.datasciencecentral.com/group/data-science/forum/topics/data-science-e-book-first-draft-available-for-download" target="_blank">Book 1</a> |
+<a href="https://www.datasciencecentral.com/profiles/blogs/my-data-science-book" target="_blank">Book 2</a> |
+<a href="https://www.datasciencecentral.com/profiles/blogs/older-data-science-articles-still-of-great-value-today" target="_blank">More</a>
+</span></p>
+<p><span style="font-size: 11pt;"><strong>Follow us</strong></span>:<span style="font-size: 11pt;"><span>&nbsp;</span><a href="https://twitter.com/DataScienceCtrl">Twitter</a><span>&nbsp;</span>|<span>&nbsp;</span><a href="https://www.facebook.com/DataScienceCentralCommunity/">Facebook</a></span></p>
+</div>
+<div class="left-panel">
+<script>xg.addOnRequire(function () { xg.post('/main/viewcount/update?xn_out=json', {key: '6448529:BlogPost:414804', x: 'f3b7de0'}); });</script> <p class="small dy-clear view-count-container">
+<span class="view-count-label">Views:</span> <span class="view-count">33490</span></p>
+<p class="small object-detail" id="tagsList" style="display:none">Tags:<br></p>
+<div class="likebox likebox-ning">
+<div class="ning-like">
+<div class="xg_lightborder like-button like-button-1">
+<a data-content-id="6448529:BlogPost:414804" data-content-type="BlogPost" data-sign-up-url="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity" data-like-url="/main/like/like" data-unlike-url="/main/like/unlike" data-track="{&quot;category&quot;:&quot;Likes&quot;,&quot;action&quot;:&quot;Like&quot;,&quot;label&quot;:&quot;&quot;}" data-page-type="detail" class="xg_sprite" href="#">
+Like </a>
+</div>
+<div class="like-count">
+<a href="#" class="view-liked" _id="6448529:BlogPost:414804">11 members like this</a>
+</div>
+</div>
+</div>
+<p class="share-links clear"><a class="xg_sprite xg_sprite-share" href="https://www.datasciencecentral.com/main/sharing/share?id=6448529%253ABlogPost%253A414804">Share</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<span class="xg_tweet">
+<iframe id="twitter-widget-0" scrolling="no" allowtransparency="true" class="twitter-share-button twitter-share-button-rendered twitter-tweet-button" style="position: static; visibility: visible; width: 61px; height: 20px;" title="Twitter Tweet Button" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/tweet_button.html" data-url="https://www.datasciencecentral.com/profiles/blogs/answers-to-dozens-of-data-science-job-interview-questions?xg_source=activity" frameborder="0"></iframe>
+</span>
+<a class="post_to_facebook xj_post_to_facebook_stream dy-displaynone" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dfacebook&amp;t=Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20on%20Data%20Science%20Central" _args="{&quot;name&quot;:&quot;Answers to dozens of data science job interview questions on Data Science Central&quot;,&quot;href&quot;:&quot;https:\/\/www.datasciencecentral.com\/profiles\/blogs\/answers-to-dozens-of-data-science-job-interview-questions?xg_source=facebook&quot;,&quot;media&quot;:[{&quot;type&quot;:&quot;image&quot;,&quot;src&quot;:&quot;http:\/\/storage.ning.com\/topology\/rest\/1.0\/file\/get\/1328085?profile=original&quot;,&quot;href&quot;:&quot;https:\/\/www.datasciencecentral.com\/profiles\/blogs\/answers-to-dozens-of-data-science-job-interview-questions?xg_source=facebook&quot;}],&quot;actionLink&quot;:{&quot;text&quot;:&quot;Full Post&quot;,&quot;href&quot;:&quot;https:\/\/www.datasciencecentral.com\/profiles\/blogs\/answers-to-dozens-of-data-science-job-interview-questions?xg_source=facebook&quot;},&quot;description&quot;:&quot;We just started in this article to provide answers to one of the largest collection of data science job interview questions ever published, and we will continue to add answers to most of these questions. Some answers link to solutions offered in my Wiley data science book: you can find this book here. The 91 job interview questions were originally published here\u00a0with no answers, and we recently added 50 questions to identify a true data scientist,\u00a0in this article. Over time, we will add more questions and more answers. So, bookmark this page!\nOther lists of Q&amp;A for data science job interviews (including about R) can be found here.\u00a0\n\nTechnical Questions\n\nWhat are lift, KPI, robustness, model fitting, design of experiments, and the 80\/20 rule?\u00a0Answer: KPI stands for Key Performance Indicator, or metric, sometimes called feature. A robust model is one that is not sensitive to changes in the data. Design of experiments or experimental design is the initial process used (before data is collected) to split your data, sample and set up a data set for statistical analysis, for instance in A\/B testing frameworks or clinical trials. The 80\/20 rules means that 80 percent of your income (or results) comes from 20 percent of your clients (or efforts).\nWhat are collaborative filtering, n-grams, Map Reduce, and cosine distance?\u00a0Answers: Collaborative filtering\/recommendation engines are a set of techniques where recommendations are based on what your friends like, used in social context networks. N-grams are token permutations associated with a keyword, for instance \u201ccar insurance California,\u201d \u201cCalifornia car insurance,\u201d \u201cinsurance California car,\u201d and so on. Map Reduce is a framework to process large data sets, splitting them into subsets, processing each subset on a different server, and then blending results obtained on each. Cosine distance measures how close two sentences are to each other, by counting the number of terms that their share. It does not take into account synony&quot;,&quot;log&quot;:{&quot;module&quot;:&quot;profiles&quot;,&quot;page&quot;:&quot;blog&quot;,&quot;action&quot;:&quot;show&quot;},&quot;private&quot;:false,&quot;user&quot;:null,&quot;contentId&quot;:null,&quot;display&quot;:false,&quot;userMessage&quot;:&quot;&quot;,&quot;pageId&quot;:null,&quot;text&quot;:&quot;Facebook&quot;}">Facebook</a>
+</p><div class="likebox">
+<div class="facebook-like" data-content-type="BlogPost" data-content-id="6448529:BlogPost:414804" data-page-type="detail">
+<fb:like href="https://www.datasciencecentral.com/xn/detail/6448529:BlogPost:414804" layout="button_count" show_faces="false" width="450" class=" fb_iframe_widget" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=259683271111061&amp;container_width=0&amp;href=https%3A%2F%2Fwww.datasciencecentral.com%2Fxn%2Fdetail%2F6448529%3ABlogPost%3A414804&amp;layout=button_count&amp;locale=en_US&amp;sdk=joey&amp;show_faces=false&amp;width=450"><span style="vertical-align: bottom; width: 68px; height: 20px;"><iframe name="f17edfffb68a198" title="fb:like Facebook Social Plugin" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" style="border: medium none; visibility: visible; width: 68px; height: 20px;" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/like.html" class="" width="450px" height="1000px" frameborder="0"></iframe></span></fb:like>
+</div>
+</div>
+<p></p> </div>
+<ul class="pagination smallpagination">
+<li class="left"><a href="https://www.datasciencecentral.com/profiles/blogs/6448529:BlogPost:414529" title="Searching Google for Images Similar to a Specific Image">&lt; Previous Post</a></li> <li class="right"><a title="20 Data Science and Mathematical Challenges" href="https://www.datasciencecentral.com/profiles/blogs/20-data-science-and-mathematical-challenges">Next Post &gt;</a></li>
+</ul>
+</div>
+</div>
+<div class="xg_module">
+<div class="xg_module_body">
+<p id="add-comment">Comment</p>
+<div class="comment-join">
+<h3>You need to be a member of Data Science Central to add comments!</h3>
+<p><a href="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity">Join Data Science Central</a></p>
+</div>
+</div>
+<div class="xg_module_body" id="comments" style="display: none" _numcomments="0" _scrollto="">
+</div>
+<div class="xg_module_foot" id="xj_comments_footer" style="display:none">
+<p class="left">
+<a class="xg_icon xg_icon-rss" href="https://www.datasciencecentral.com/profiles/comment/feed?attachedTo=6448529%3ABlogPost%3A414804&amp;xn_auth=no">RSS</a>
+</p>
+</div>
+</div>
+<input type="hidden" id="incrementViewCountEndpoint" value="https://www.datasciencecentral.com/profiles/blog/incrementViewCount?id=6448529%3ABlogPost%3A414804&amp;xn_out=json">
+</div>
+</div>
+<div class="xg_column xg_span-5 xg_last" id="column2">
+<div class="xj_user_info"> <div class="xg_module" id="xg_module_account">
+<div class="xg_module_body xg_signup xg_lightborder">
+<p>Welcome to<br>Data Science Central</p>
+<p class="last-child"><big><strong><a href="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity">Sign Up</a></strong></big><br>or <a href="https://www.datasciencecentral.com/main/authorization/signIn?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity" style="white-space:nowrap">Sign In</a></p>
+<div class="xg_external_signup xg_lightborder xj_signup">
+<p class="dy-small">Or sign in with:</p>
+<ul class="providers">
+<li><a onclick="window.open('https://datasciencecentral.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dfacebook', null, 'width=626,height=436,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://datasciencecentral.networkauth.com/facebook/connect_start?ext_perm=user_birthday%2Cuser_location%2Cemail&amp;token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dfacebook">
+<span class="mini-service mini-service-facebook" title="Facebook"></span>
+</a></li>
+<li><a onclick="window.open('https://datasciencecentral.networkauth.com/twitter/start?token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dtwitter', null, 'width=860,height=440,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://datasciencecentral.networkauth.com/twitter/start?token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dtwitter">
+<span class="mini-service mini-service-twitter" title="Twitter"></span>
+</a></li>
+<li><a onclick="window.open('https://datasciencecentral.networkauth.com/googleplus/start?token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dgoogle', null, 'width=530,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://datasciencecentral.networkauth.com/googleplus/start?token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dgoogle">
+<span class="mini-service mini-service-google" title="Google"></span>
+</a></li>
+<li><a onclick="window.open('https://datasciencecentral.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D1%26provider%3Dyahoo', null, 'width=500,height=480,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'); return false;" href="https://datasciencecentral.networkauth.com/openid/start?openid_identifier=http%3A%2F%2Fme.yahoo.com%2F&amp;token_url=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Fauthorization%2FprocessExternalAuth%3Ftarget%3Dhttps%253A%252F%252Fwww.datasciencecentral.com%252Fprofiles%252Fblogs%252Fanswers-to-dozens-of-data-science-job-interview-questions%253Fxg_source%253Dactivity%26source%3DsignUp%26close%3D0%26provider%3Dyahoo">
+<span class="mini-service mini-service-yahoo" title="Yahoo!"></span>
+</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="xj_sidebar_content"><div class="xg_module html_module module_text xg_reset" data-module_name="text">
+<div class="xg_module_body xg_user_generated">
+<center>
+<div id="div-gpt-ad-1512428902846-6" style="height:600px; width:160px;" data-google-query-id="CKj8m9iMp-MCFQTzjwodG6sBIA"><div id="google_ads_iframe_/2672641/Skyscraper_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/2672641/Skyscraper_0" title="3rd party ad content" name="google_ads_iframe_/2672641/Skyscraper_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="2" data-load-complete="true" width="160" height="600" frameborder="0"></iframe></div></div>
+</center>
+</div>
+</div>
+<div class="xg_module html_module module_text xg_reset" data-module_name="text">
+<div class="xg_module_head"><h2>Resources</h2></div>
+<div class="xg_module_body xg_user_generated">
+<ul>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter" target="_self">Subscribe to DSC Newsletter</a></li>
+<li><a href="https://www.datasciencecentral.com/profiles/blogs/new-books-and-resources-for-dsc-members">Free Books</a><br>
+<a href="https://www.datasciencecentral.com/forum"></a></li>
+<li><a href="https://www.datasciencecentral.com/forum">Forum Discussions</a><br>
+<a href="https://www.datasciencecentral.com/page/search?q=cheat+sheets"></a></li>
+<li><a href="https://www.datasciencecentral.com/page/search?q=cheat+sheets">Cheat Sheets</a><br>
+<a href="https://analytictalent.com/"></a></li>
+<li><a href="https://www.analytictalent.datasciencecentral.com/">Jobs</a></li>
+<li><a href="https://www.datasciencecentral.com/page/search?q=one+picture" target="_blank" rel="noopener">Search DSC</a></li>
+<li><a href="https://twitter.com/DataScienceCtrl" target="_self">DSC on Twitter</a></li>
+<li><a href="https://www.facebook.com/DataScienceCentralCommunity/" target="_blank" rel="noopener">DSC on Facebook</a></li>
+</ul>
+</div>
+</div>
+<div class="xg_module html_module module_text xg_reset" data-module_name="text">
+<div class="xg_module_body xg_user_generated">
+<center>
+<div id="div-gpt-ad-1512428902846-7" style="height:220px; width:220px;" data-google-query-id="CMm5ndiMp-MCFVSDcAoduI0M7Q"><div id="google_ads_iframe_/2672641/Square_Box_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/2672641/Square_Box_0" title="3rd party ad content" name="google_ads_iframe_/2672641/Square_Box_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="3" data-load-complete="true" width="220" height="220" frameborder="0"></iframe></div></div>
+</center>
+</div>
+</div>
+<div class="xg_module module_video" data-module_name="video">
+<div class="xg_module_head">
+<h2>Videos</h2>
+</div>
+<div class="xg_module_body body_large">
+<ul class="clist">
+<li>
+<div class="ib">
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-from-pandas-to-apache-spark">
+<img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/3189210470.png" alt="DSC Webinar Series: From Pandas to Apache Spark™" width="136">
+</a>
+</div>
+<div class="tb">
+<h3><a href="https://www.datasciencecentral.com/video/dsc-webinar-series-from-pandas-to-apache-spark">
+DSC Webinar Series: From Pandas to Apache Spark™ </a></h3>
+<p class="xg_lightfont">
+Added by <a class="xg_lightfont" href="https://www.datasciencecentral.com/profile/2edcolrgc4o4b">Tim Matteson</a> <span class="reactions">
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-from-pandas-to-apache-spark#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class="details">Comments</span></a>
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-from-pandas-to-apache-spark" data-content-id="6448529:Video:851584" data-content-type="Video" data-sign-up-url="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity" data-page-type="detail" class="xg_sprite like-link-1 like-link">
+1 <span class="details">Like</span>
+</a>
+</span>
+</p>
+</div>
+</li>
+</ul><ul class="clist"> <li>
+<div class="ib">
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-making-ai-work-in-the-real-world-how-real">
+<img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/3181882056.png" alt="DSC Webinar Series: Making AI Work in the Real World: How Real Companies Get Real Value with AI" width="136">
+</a>
+</div>
+<div class="tb">
+<h3><a href="https://www.datasciencecentral.com/video/dsc-webinar-series-making-ai-work-in-the-real-world-how-real">
+DSC Webinar Series: Making AI Work in the Real World: How Real Companies Get Real Value with AI </a></h3>
+<p class="xg_lightfont">
+Added by <a class="xg_lightfont" href="https://www.datasciencecentral.com/profile/2edcolrgc4o4b">Tim Matteson</a> <span class="reactions">
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-making-ai-work-in-the-real-world-how-real#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class="details">Comments</span></a>
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-making-ai-work-in-the-real-world-how-real" data-content-id="6448529:Video:850987" data-content-type="Video" data-sign-up-url="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity" data-page-type="detail" class="xg_sprite like-link-1 like-link">
+0 <span class="details">Likes</span>
+</a>
+</span>
+</p>
+</div>
+</li>
+</ul><ul class="clist"> <li>
+<div class="ib">
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-predictive-analytics-practical-applications">
+<img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/3181869130.png" alt="DSC Webinar Series: Predictive Analytics: Practical Applications" width="136">
+</a>
+</div>
+<div class="tb">
+<h3><a href="https://www.datasciencecentral.com/video/dsc-webinar-series-predictive-analytics-practical-applications">
+DSC Webinar Series: Predictive Analytics: Practical Applications </a></h3>
+<p class="xg_lightfont">
+Added by <a class="xg_lightfont" href="https://www.datasciencecentral.com/profile/2edcolrgc4o4b">Tim Matteson</a> <span class="reactions">
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-predictive-analytics-practical-applications#comments" data-page-type="detail" class="xg_sprite xg_sprite-comment">0 <span class="details">Comments</span></a>
+<a href="https://www.datasciencecentral.com/video/dsc-webinar-series-predictive-analytics-practical-applications" data-content-id="6448529:Video:851062" data-content-type="Video" data-sign-up-url="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity" data-page-type="detail" class="xg_sprite like-link-1 like-link">
+0 <span class="details">Likes</span>
+</a>
+</span>
+</p>
+</div>
+</li>
+</ul><ul class="clist"> </ul>
+</div>
+<div class="xg_module_foot">
+<ul>
+<li class="left"><a class="xg_sprite xg_sprite-add" href="https://www.datasciencecentral.com/video/video/chooseUploader">Add Videos</a></li>
+<li class="right"><a href="https://www.datasciencecentral.com/video/video">View All</a></li>
+<li class="right video-facebook-share" style="display:none; margin-right:10px;"><a target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fwww.datasciencecentral.com%2Fvideo%2Fvideo%3Ffrom%3Dfb"><img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/facebook.gif" alt="Facebook"></a></li>
+<script>
+                        xg.addOnRequire(function () {
+                            x$('.module_video').mouseover(function () { x$(this).find('.video-facebook-share').show(); })
+                                    .mouseout(function () { x$(this).find('.video-facebook-share').hide(); });
+                        });
+                    </script>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div id="xg_foot">
+<div id="xg_footcontent">
+<div class="xj_foot_content"><p class="left">
+© 2019 &nbsp; Data Science Central&nbsp;® &nbsp;
+Powered by<a class="poweredBy-logo" href="https://www.ning.com/" title="" alt="" rel="dofollow">
+<img class="poweredbylogo" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/Ning_MM_footer_blk2x.png" title="Ning Website Builder" alt="Website builder | Create website | Ning.com" width="87" height="15">
+</a> </p>
+<p class="right xg_lightfont">
+<a href="https://www.datasciencecentral.com/main/embeddable/list">Badges</a> &nbsp;|&nbsp;
+<a href="https://www.datasciencecentral.com/main/authorization/signUp?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Findex%2Freport" dojotype="PromptToJoinLink" _joinprompttext="Please sign up or sign in to complete this step." _hassignup="true" _signinurl="https://www.datasciencecentral.com/main/authorization/signIn?target=https%3A%2F%2Fwww.datasciencecentral.com%2Fmain%2Findex%2Freport">Report an Issue</a> &nbsp;|&nbsp;
+<a href="https://www.datasciencecentral.com/main/authorization/privacyPolicy?previousUrl=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity">Privacy Policy</a> &nbsp;|&nbsp;
+<a href="https://www.datasciencecentral.com/main/authorization/termsOfService?previousUrl=https%3A%2F%2Fwww.datasciencecentral.com%2Fprofiles%2Fblogs%2Fanswers-to-dozens-of-data-science-job-interview-questions%3Fxg_source%3Dactivity">Terms of Service</a>
+</p>
+</div>
+</div>
+</div>
+<div id="xg_ad_below_footer" class="xg_ad xj_ad_below_footer">
+<div class="xg_module module-plain  html_module module_text xg_reset" data-module_name="text">
+<div class="xg_module_body xg_user_generated">
+<center>
+<div id="div-gpt-ad-1512428902846-0" style="height:90px; width:728px;" data-google-query-id="CPu-ndiMp-MCFVKFjwodNwMFfw"><div id="google_ads_iframe_/2672641/Bottom_Leaderboard_0__container__" style="border: 0pt none;"><iframe id="google_ads_iframe_/2672641/Bottom_Leaderboard_0" title="3rd party ad content" name="google_ads_iframe_/2672641/Bottom_Leaderboard_0" scrolling="no" marginwidth="0" marginheight="0" style="border: 0px none; vertical-align: bottom;" srcdoc="" data-google-container-id="4" data-load-complete="true" width="728" height="90" frameborder="0"></iframe></div></div>
+<br></center>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="xj_after_content"><div id="xj_baz17246" class="xg_theme"></div>
+<div id="xg_overlay" style="display:none;">
+<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+</div>
+<!--googleoff: all--><noscript>
+	<style type="text/css" media="screen">
+        #xg { position:relative;top:120px; }
+        #xn_bar { top:120px; }
+	</style>
+	<div class="errordesc noscript">
+		<div>
+            <h3><strong>Hello, you need to enable JavaScript to use Data Science Central.</strong></h3>
+            <p>Please check your browser settings or contact your system administrator.</p>
+			<img src="/xn_resources/widgets/index/gfx/jstrk_off.gif" alt="" height="1" width="1" />
+		</div>
+	</div>
+</noscript><!--googleon: all-->
+<script type="text/javascript" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/core.js"></script> <script>
+            var sources = ["https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.ui.widget.js?xn_version=201906260700","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.iframe-transport.js?xn_version=201906260700","https:\/\/static.ning.com\/socialnetworkmain\/widgets\/lib\/js\/jquery\/jquery.fileupload.js?xn_version=201906260700","https:\/\/storage.ning.com\/topology\/rest\/1.0\/file\/get\/2030826647?profile=original&r=1555416927","https:\/\/storage.ning.com\/topology\/rest\/1.0\/file\/get\/2030976589?profile=original&r=1555417229","https:\/\/storage.ning.com\/topology\/rest\/1.0\/file\/get\/3120766840?profile=original&r=1561551537"];
+            var numSources = sources.length;
+                        var heads = document.getElementsByTagName('head');
+            var node = heads.length > 0 ? heads[0] : document.body;
+            var onloadFunctionsObj = {};
+
+            var createScriptTagFunc = function(source) {
+                var script = document.createElement('script');
+                
+                script.type = 'text/javascript';
+                                var currentOnLoad = function() {xg._loader.onLoad(source);};
+                if (script.readyState) { //for IE (including IE9)
+                    script.onreadystatechange = function() {
+                        if (script.readyState == 'complete' || script.readyState == 'loaded') {
+                            script.onreadystatechange = null;
+                            currentOnLoad();
+                        }
+                    }
+                } else {
+                   script.onerror = script.onload = currentOnLoad;
+                }
+
+                script.src = source;
+                node.appendChild(script);
+            };
+
+            for (var i = 0; i < numSources; i++) {
+                                xg._loader.loading(sources[i]);
+                createScriptTagFunc(sources[i]);
+            }
+        </script>
+<script type="text/javascript">
+if (!ning._) {ning._ = {}}
+ning._.compat = { encryptedToken: "<empty>" }
+ning._.CurrentServerTime = "2019-07-09T05:25:41+00:00";
+ning._.probableScreenName = "";
+ning._.domains = {
+    base: 'ning.com',
+    ports: { http: '80', ssl: '443' }
+};
+ning.loader.version = '201906260700'; // DEP-190704_1:0 33
+djConfig.parseWidgets = false;
+</script>
+<script type="text/javascript">
+        xg.token = '';
+xg.canTweet = false;
+xg.cdnHost = 'static.ning.com';
+xg.version = '201906260700';
+xg.useMultiCdn = true;
+xg.staticRoot = 'socialnetworkmain';
+xg.xnTrackHost = null;
+    xg.cdnDefaultPolicyHost = 'static';
+    xg.cdnPolicy = [];
+xg.global = xg.global || {};
+xg.global.currentMozzle = 'profiles';
+xg.global.userCanInvite = false;
+xg.global.requestBase = '';
+xg.global.locale = 'en_US';
+xg.num_thousand_sep = ",";
+xg.num_decimal_sep = ".";
+(function() {
+    dojo.addOnLoad(function() {
+        if(window.bzplcm) { window.bzplcm.ts('hr'); window.bzplcm._profileSend(); }
+            });
+            ning.loader.require('xg.profiles.blog.show', 'xg.index.like.likeButton', 'xg.shared.PostToFacebookStreamLink', 'xg.index.facebookLike', 'xg.index.like.desktopLike', function() { xg._loader.onLoad('xnloader'); });
+    })();    </script>
+
+<script async="" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-27452860-1');
+</script>
+
+<script type="text/javascript">
+xg.addOnRequire(function() {
+    document.getElementById('xn_bar_menu_search').action = 'https://www.datasciencecentral.com/page/search';
+});
+
+</script>
+
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"QpAKm1aMp4Z352", domain:"datasciencecentral.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=QpAKm1aMp4Z352" style="display:none" height="1" width="1" alt="" /></noscript>
+
+
+<link href="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/style020170126141034-6-7.css" rel="stylesheet" type="text/css">
+<script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/script020170126141034-17.js"></script>
+
+
+<script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/as.js"></script>
+
+
+<script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/script020171208141034-13-16.js"></script>
+
+
+<div id="tmp_insideblog" style="display:none;">
+<div class="dscAdAppear" zsrc="PGNlbnRlcj48YnIgLz48IS0tIC8yNjcyNjQxL0JveF9BZF9CbG9nIC0tPg0KPGRpdiBpZD0nZGl2LWdwdC1hZC0xNTEyNDI4OTAyODQ2LTInIHN0eWxlPSdoZWlnaHQ6MjUwcHg7IHdpZHRoOjMwMHB4Oyc+DQo8c2NyaXB0Pg0KZ29vZ2xldGFnLmNtZC5wdXNoKGZ1bmN0aW9uKCkgeyBnb29nbGV0YWcuZGlzcGxheSgnZGl2LWdwdC1hZC0xNTEyNDI4OTAyODQ2LTInKTsgfSk7DQo8L3NjcmlwdD4NCjwvZGl2PjxiciAvPg0KPC9jZW50ZXI+"></div>
+<img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/2058338992.png" class="align-center" width="750">
+<p><span style="font-size: 11pt;"><strong>Most Popular Content on DSC</strong></span></p>
+<p><span style="font-size: 11pt;">To not miss this type of content in the future,&nbsp;<a href="https://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter">subscribe</a>&nbsp;to our newsletter.</span></p>
+<ul>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/free-book-statistics-new-foundations-toolbox-and-machine-learning" target="_blank">Book: Statistics -- New Foundations, Toolbox, and Machine Learning Recipes</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/free-book-classification-and-regression-in-a-weekend" target="_blank">Book: Classification and Regression In a Weekend - With Python</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/fee-book-applied-stochastic-processes" target="_blank">Book: Applied Stochastic Processes</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/long-range-correlation-in-time-series-tutorial-and-case-study" target="_blank">Long-range Correlations in Time Series: Modeling, Testing, Case Study</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat" target="_blank">How to Automatically Determine the Number of Clusters in your Data</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/new-data-science-cheat-sheet" target="_blank">New Machine Learning Cheat Sheet</a> | <a href="https://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet" target="_blank">Old one</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/confidence-intervals-without-pain" target="_blank">Confidence Intervals Without Pain - With Resampling</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/advanced-machine-learning-with-basic-excel" target="_blank">Advanced Machine Learning with Basic Excel</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/decomposition-of-statistical-distributions-using-mixture-models-a" target="_blank">New Perspectives on Statistical Distributions and Deep Learning</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/fascinating-new-results-in-the-theory-of-randomness" target="_blank">Fascinating New Results in the Theory of Randomness</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/feature-selection-based-on-predictive-power" target="_blank">Fast Combinatorial Feature Selection</a></span></li>
+</ul>
+<p><span style="font-size: 11pt;"><strong>Other popular resources</strong></span></p>
+<ul>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources" target="_blank">Comprehensive Repository of Data Science and ML Resources</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=statistical+concepts" target="_blank">Statistical Concepts Explained in Simple English</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=in+one+pictures" target="_blank">Machine Learning Concepts Explained in One Picture</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/100-data-science-interview-questions-and-answers" target="_blank">100 Data Science Interview Questions and Answers</a>
+</span></li><li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=cheat+sheets" target="_blank">Cheat Sheets</a> |
+<a href="https://www.datasciencecentral.com/profiles/blogs/21-curated-blogs-about-deep-learning-and-data-science" target="_blank">Curated Articles</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=Python" target="_blank">Search</a> |
+<a href="http://www.analytictalent.com/" target="_blank">Jobs</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=courses" target="_blank">Courses</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blog/new" target="_blank">Post a Blog</a> |
+<a href="https://www.datasciencecentral.com/forum/topic/new" target="_blank">Forum Questions</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=books" target="_blank">Books</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=salary" target="_blank">Salaries</a> |
+<a href="https://www.bigdatanews.datasciencecentral.com/group/bdn-daily-press-releases/forum" target="_blank">News</a>
+</span></li>
+</ul>
+<p><span style="font-size: 11pt;"><strong>Archives:</strong></span> <span style="font-size: 11pt;"><a href="https://www.analyticbridge.datasciencecentral.com/page/links" target="_blank">2008-2014</a> |
+<a href="https://www.datasciencecentral.com/group/resources/forum/topics/selection-of-best-articles-from-our-past-weekly-digests" target="_blank">2015-2016</a> |
+<a href="https://www.datasciencecentral.com/page/previous-digests" target="_blank">2017-2019</a> |
+<a href="https://www.analyticbridge.datasciencecentral.com/group/data-science/forum/topics/data-science-e-book-first-draft-available-for-download" target="_blank">Book 1</a> |
+<a href="https://www.datasciencecentral.com/profiles/blogs/my-data-science-book" target="_blank">Book 2</a> |
+<a href="https://www.datasciencecentral.com/profiles/blogs/older-data-science-articles-still-of-great-value-today" target="_blank">More</a>
+</span></p>
+<p><span style="font-size: 11pt;"><strong>Follow us</strong></span>:<span style="font-size: 11pt;"><span>&nbsp;</span><a href="https://twitter.com/DataScienceCtrl">Twitter</a><span>&nbsp;</span>|<span>&nbsp;</span><a href="https://www.facebook.com/DataScienceCentralCommunity/">Facebook</a></span></p>
+</div>
+<script type="text/javascript">
+if (typeof(x$) != 'undefined') {
+x$(".xg_widget_profiles_blog_show .xg_blog .postbody").after('<div id="insideblog"></div>');
+var t_insideblogCode = document.getElementById('tmp_insideblog');
+var insideblogCode = document.getElementById('insideblog');
+insideblogCode.innerHTML = t_insideblogCode.innerHTML;
+}
+</script>
+
+
+<div id="tmp_insideforum" style="display:none;">
+<div class="dscAdAppear" zsrc="PGNlbnRlcj48YnIgLz48IS0tIC8yNjcyNjQxL0JveF9BZF9Gb3J1bSAtLT4NCjxkaXYgaWQ9J2Rpdi1ncHQtYWQtMTUxMjQyODkwMjg0Ni0zJyBzdHlsZT0naGVpZ2h0OjI1MHB4OyB3aWR0aDozMDBweDsnPg0KPHNjcmlwdD4NCmdvb2dsZXRhZy5jbWQucHVzaChmdW5jdGlvbigpIHsgZ29vZ2xldGFnLmRpc3BsYXkoJ2Rpdi1ncHQtYWQtMTUxMjQyODkwMjg0Ni0zJyk7IH0pOw0KPC9zY3JpcHQ+DQo8L2Rpdj48YnIgLz4NCjwvY2VudGVyPg=="></div>
+<img src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/2058338992.png" class="align-center" width="750">
+<p><span style="font-size: 12pt;"><strong>Most popular articles</strong></span></p><p>
+</p><ul>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/new-books-and-resources-for-dsc-members">Free Book and Resources for DSC Members</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/decomposition-of-statistical-distributions-using-mixture-models-a">New Perspectives on Statistical Distributions and Deep Learning</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/data-science-wizardry">Time series, Growth Modeling and Data Science Wizardy</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=statistical+concepts">Statistical Concepts Explained in Simple English</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/page/search?q=in+one+pictures">Machine Learning Concepts Explained in One Picture</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/comprehensive-repository-of-data-science-and-ml-resources">Comprehensive Repository of Data Science and ML Resources</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/advanced-machine-learning-with-basic-excel">Advanced Machine Learning with Basic Excel</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/difference-between-machine-learning-data-science-ai-deep-learning">Difference between ML, Data Science, AI, Deep Learning, and Statistics</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/my-data-science-machine-learning-and-related-articles">Selected Business Analytics, Data Science and ML articles</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat">How to Automatically Determine the Number of Clusters in your Data</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blogs/fascinating-new-results-in-the-theory-of-randomness">Fascinating New Results in the Theory of Randomness</a></span></li>
+<li><span style="font-size: 11pt;">
+<a href="http://careers.analytictalent.com/jobs/products">Hire a Data Scientist</a> |
+<a href="https://www.datasciencecentral.com/page/search?q=Python">Search DSC</a> |
+<a href="http://www.analytictalent.com/">Find a Job</a></span></li>
+<li><span style="font-size: 11pt;"><a href="https://www.datasciencecentral.com/profiles/blog/new">Post a Blog</a> |
+<a href="https://www.datasciencecentral.com/forum/topic/new">Forum Questions</a></span></li>
+</ul>
+</div>
+<script type="text/javascript">
+if (typeof(x$) != 'undefined') {
+x$(".xg_widget_forum_topic_show div.discussion div.description").after('<div id="insideforum"></div>');
+var t_insideforumCode = document.getElementById('tmp_insideforum');
+var insideforumCode = document.getElementById('insideforum');
+insideforumCode.innerHTML = t_insideforumCode.innerHTML;
+}
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/cookieconsent.css">
+<script src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/cookieconsent.js"></script>
+<script>
+window.addEventListener("load", function(){
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000000"
+    },
+    "button": {
+      "background": "transparent",
+      "text": "#f1d600",
+      "border": "#f1d600"
+    }
+  },
+  "position": "top",
+  "target": "_blank",
+  "static": true,
+  "cookie.name": "cookieconsent_dsc",
+  "domain": "datasciencecentral.com",
+  "content": {
+  "dismiss": "OK, Got it!",
+    "message": "We use cookies to ensure that we give you the best possible experience. By continuing to browse the site you are agreeing to our use of cookies.",
+    "href": "https://www.datasciencecentral.com/page/cookie-policy"
+  }
+})});
+</script>
+<style>@media screen and (min-device-width : 385px) { .cc-window.cc-floating { max-width: none; flex-direction: row; } .cc-floating .cc-message { width: 100%; margin-bottom: 0px; } .cc-window.cc-floating .cc-compliance { margin-top: -5px; float: right; } .cc-link { padding-left: 0px; } .cc-window.cc-floating .cc-compliance { min-width: 100px; } .cc-bottom { bottom: 0; } }</style>
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        if (!dataLayer) {
+            return;
+        }
+        var handler = function (event) {
+            var element = event.currentTarget;
+            if (element.hasAttribute('data-track-disable')) {
+                return;
+            }
+            var options = JSON.parse(element.getAttribute('data-track'));
+            dataLayer.push({
+                'event'         : 'trackEvent',
+                'eventType'     : 'googleAnalyticsNetwork',
+                'eventCategory' : options && options.category || '',
+                'eventAction'   : options && options.action || '',
+                'eventLabel'    : options && options.label || '',
+                'eventValue'    : options && options.value || ''
+            });
+        };
+        var elements = document.querySelectorAll('[data-track]');
+        for (var i = 0; i < elements.length; i++) {
+            elements[i].addEventListener('click', handler);
+        }
+    });
+</script>
+</div>
+
+
+<cloudflare-app app="lead-box" data-goal="cta" data-position="right bottom" data-product-id="pro" style="z-index: 10001;" data-visibility="visible">
+      <cf-dialog>
+        <cf-dialog-content>
+          <cf-dialog-close-button role="button"></cf-dialog-close-button>
+
+          <cf-dialog-content-text>
+            
+    <cf-dialog-content-title>Maximizing DS Applications and Model Development</cf-dialog-content-title>
+
+    <form>
+      In this latest DSC webinar, you will learn the value of an 
+optimized workstation for data scientists. We will demonstrate NVIDIA 
+CUDA-X AI software stack and how it has enhanced data science workflows.
+
+      <input type="submit" value="Register today">
+    </form>
+  
+
+            
+          </cf-dialog-content-text>
+        </cf-dialog-content>
+      </cf-dialog>
+    <style>
+      cloudflare-app[app="lead-box"] input[type="submit"] {
+        background: #3c79a7;
+      }
+
+      cloudflare-app[app="lead-box"] input[type="email"]:focus {
+        border-color: #3c79a7;
+      }
+    </style></cloudflare-app><iframe scrolling="no" allowtransparency="true" src="Answers%20to%20dozens%20of%20data%20science%20job%20interview%20questions%20-%20Data%20Science%20Central_files/widget_iframe.html" title="Twitter settings iframe" style="display: none;" frameborder="0"></iframe></body></html>
